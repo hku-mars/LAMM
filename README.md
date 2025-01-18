@@ -84,7 +84,7 @@ source ~/.bashrc
 
 `source devel/setup.bash` (**Note:** change the path for TBB in CMakeList.txt)
 
-We provide a test data to demonstrate the file structure, which is available here: 
+We provide a test data to demonstrate the file structure, which is available here: https://connecthkuhk-my.sharepoint.com/:u:/g/personal/hairuo_connect_hku_hk/EdWNkRVCcxVGmSRSk0vC8PMBBoeC9NpXaErjytJ1cQMXTQ?e=vAWa6R
 
 The test data is composed of 2 part: The first part includes three sequences from KITTI00, which are steady point clouds without moving objects and can be used to test the map merging task; The seconde part includes a sequence in HeLiPR dataset,  which can be used to test the moving objects removal task.
 
