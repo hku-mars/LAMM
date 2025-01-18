@@ -1,0 +1,2017 @@
+
+Key frame:0, cloud size:236044
+[Corner] corner size:15  descriptor size:440
+[Loop Fail] 0, icp:0
+[Time] build_descriptor:32.8695, candidate search:1.06719, fine loop detect:0.000291, add descriptor:0.254637, average:34.1916
+
+Key frame:1, cloud size:238400
+[Corner] corner size:18  descriptor size:683
+[Loop Fail] 1, icp:0
+[Time] build_descriptor:24.6219, candidate search:1.0044, fine loop detect:0.000171, add descriptor:0.460665, average:30.1394
+
+Key frame:2, cloud size:239311
+[Corner] corner size:12  descriptor size:213
+[Loop Fail] 2, icp:0
+[Time] build_descriptor:22.6698, candidate search:0.975395, fine loop detect:0.000265, add descriptor:0.150855, average:28.025
+
+Key frame:3, cloud size:236217
+[Corner] corner size:24  descriptor size:1052
+[Loop Fail] 3, icp:0
+[Time] build_descriptor:22.932, candidate search:1.01727, fine loop detect:0.00017, add descriptor:0.685901, average:27.1776
+
+Key frame:4, cloud size:237272
+[Corner] corner size:25  descriptor size:1052
+[Loop Fail] 4, icp:0
+[Time] build_descriptor:22.9532, candidate search:1.23715, fine loop detect:0.000279, add descriptor:0.672867, average:26.7148
+
+Key frame:5, cloud size:238723
+[Corner] corner size:28  descriptor size:1290
+[Loop Fail] 5, icp:0
+[Time] build_descriptor:23.6382, candidate search:1.57839, fine loop detect:0.000497, add descriptor:1.77645, average:26.7612
+
+Key frame:6, cloud size:237965
+[Corner] corner size:32  descriptor size:1483
+[Loop Fail] 6, icp:0
+[Time] build_descriptor:28.189, candidate search:1.66352, fine loop detect:0.000544, add descriptor:1.46665, average:27.4125
+
+Key frame:7, cloud size:237918
+[Corner] corner size:41  descriptor size:1936
+[Loop Fail] 7, icp:0
+[Time] build_descriptor:24.7802, candidate search:1.77308, fine loop detect:0.000288, add descriptor:1.51461, average:27.4944
+
+Key frame:8, cloud size:237928
+[Corner] corner size:37  descriptor size:1744
+[Loop Fail] 8, icp:0
+[Time] build_descriptor:25.0989, candidate search:1.66415, fine loop detect:0.000513, add descriptor:1.25496, average:27.5527
+
+Key frame:9, cloud size:237640
+[Corner] corner size:44  descriptor size:2121
+[Loop Fail] 9, icp:0
+[Time] build_descriptor:26.1983, candidate search:1.6679, fine loop detect:0.000306, add descriptor:2.02673, average:27.7867
+
+Key frame:10, cloud size:235385
+[Corner] corner size:49  descriptor size:2381
+[Loop Fail] 10, icp:0
+[Time] build_descriptor:27.4568, candidate search:1.34983, fine loop detect:0.000257, add descriptor:1.81185, average:28.0442
+
+Key frame:11, cloud size:232624
+[Corner] corner size:53  descriptor size:2542
+[Loop Fail] 11, icp:0
+[Time] build_descriptor:24.8573, candidate search:1.71585, fine loop detect:0.000987, add descriptor:2.24444, average:28.1087
+
+Key frame:12, cloud size:228352
+[Corner] corner size:48  descriptor size:2368
+[Loop Fail] 12, icp:0
+[Time] build_descriptor:27.6701, candidate search:1.55054, fine loop detect:0.000529, add descriptor:2.43357, average:28.3815
+
+Key frame:13, cloud size:224795
+[Corner] corner size:46  descriptor size:2202
+[Loop Fail] 13, icp:0
+[Time] build_descriptor:26.9121, candidate search:1.42597, fine loop detect:0.000295, add descriptor:2.99419, average:28.5923
+
+Key frame:14, cloud size:223135
+[Corner] corner size:45  descriptor size:2198
+[Loop Fail] 14, icp:0
+[Time] build_descriptor:25.7258, candidate search:1.49454, fine loop detect:0.000565, add descriptor:3.68082, average:28.7462
+
+Key frame:15, cloud size:222327
+[Corner] corner size:39  descriptor size:1858
+[Loop Fail] 15, icp:0
+[Time] build_descriptor:28.1612, candidate search:1.56814, fine loop detect:0.000757, add descriptor:2.35704, average:28.955
+
+Key frame:16, cloud size:228333
+[Corner] corner size:58  descriptor size:2727
+[Loop Fail] 16, icp:0
+[Time] build_descriptor:29.8314, candidate search:1.62929, fine loop detect:0.000542, add descriptor:2.25269, average:29.235
+
+Key frame:17, cloud size:228659
+[Corner] corner size:60  descriptor size:2885
+[Loop Fail] 17, icp:0
+[Time] build_descriptor:34.4936, candidate search:2.1437, fine loop detect:0.000403, add descriptor:3.47365, average:29.8392
+
+Key frame:18, cloud size:227074
+[Corner] corner size:72  descriptor size:3493
+[Loop Fail] 18, icp:0
+[Time] build_descriptor:31.4388, candidate search:2.00458, fine loop detect:0.00073, add descriptor:3.77269, average:30.2275
+
+Key frame:19, cloud size:228882
+[Corner] corner size:79  descriptor size:3895
+[Loop Fail] 19, icp:0
+[Time] build_descriptor:34.0042, candidate search:1.74016, fine loop detect:0.00029, add descriptor:3.19476, average:30.6631
+
+Key frame:20, cloud size:228850
+[Corner] corner size:82  descriptor size:4121
+[Loop Fail] 20, icp:0
+[Time] build_descriptor:35.4503, candidate search:1.78674, fine loop detect:0.000221, add descriptor:3.75431, average:31.1549
+
+Key frame:21, cloud size:229425
+[Corner] corner size:95  descriptor size:4991
+[Loop Fail] 21, icp:0
+[Time] build_descriptor:40.1204, candidate search:2.1407, fine loop detect:0.000271, add descriptor:4.30032, average:31.8553
+
+Key frame:22, cloud size:232729
+[Corner] corner size:71  descriptor size:3335
+[Loop Fail] 22, icp:0
+[Time] build_descriptor:42.9389, candidate search:1.85018, fine loop detect:0.000251, add descriptor:3.28869, average:32.5606
+
+Key frame:23, cloud size:234728
+[Corner] corner size:86  descriptor size:4260
+[Loop Fail] 23, icp:0
+[Time] build_descriptor:46.0478, candidate search:2.13318, fine loop detect:0.00028, add descriptor:6.26319, average:33.4724
+
+Key frame:24, cloud size:235448
+[Corner] corner size:114  descriptor size:6077
+[Loop Fail] 24, icp:0
+[Time] build_descriptor:44.0184, candidate search:2.77082, fine loop detect:0.000789, add descriptor:4.82001, average:34.1979
+
+Key frame:25, cloud size:233734
+[Corner] corner size:108  descriptor size:5669
+[Loop Fail] 25, icp:0
+[Time] build_descriptor:44.3493, candidate search:2.28787, fine loop detect:0.00063, add descriptor:5.22368, average:34.8773
+
+Key frame:26, cloud size:233166
+[Corner] corner size:116  descriptor size:6236
+[Loop Fail] 26, icp:0
+[Time] build_descriptor:45.6075, candidate search:2.70671, fine loop detect:0.000426, add descriptor:5.80256, average:35.5899
+
+Key frame:27, cloud size:235237
+[Corner] corner size:125  descriptor size:6607
+[Loop Fail] 27, icp:0
+[Time] build_descriptor:46.7781, candidate search:2.6238, fine loop detect:0.000506, add descriptor:6.2991, average:36.3081
+
+Key frame:28, cloud size:235279
+[Corner] corner size:114  descriptor size:6080
+[Loop Fail] 28, icp:0
+[Time] build_descriptor:45.2352, candidate search:3.03885, fine loop detect:0.000216, add descriptor:5.84292, average:36.9223
+
+Key frame:29, cloud size:234149
+[Corner] corner size:110  descriptor size:5792
+[Loop Fail] 29, icp:0
+[Time] build_descriptor:58.5338, candidate search:3.08211, fine loop detect:0.000433, add descriptor:5.45243, average:37.9271
+
+Key frame:30, cloud size:235734
+[Corner] corner size:119  descriptor size:6197
+[Loop Fail] 30, icp:0
+[Time] build_descriptor:48.903, candidate search:3.2569, fine loop detect:0.000521, add descriptor:5.81125, average:38.5737
+
+Key frame:31, cloud size:235115
+[Corner] corner size:122  descriptor size:6451
+[Loop Fail] 31, icp:0
+[Time] build_descriptor:45.3192, candidate search:2.89198, fine loop detect:0.000631, add descriptor:6.45859, average:39.0768
+
+Key frame:32, cloud size:235961
+[Corner] corner size:133  descriptor size:7061
+[Loop Fail] 32, icp:0
+[Time] build_descriptor:47.4607, candidate search:3.2156, fine loop detect:0.000308, add descriptor:6.65231, average:39.6298
+
+Key frame:33, cloud size:235821
+[Corner] corner size:127  descriptor size:6780
+[Loop Fail] 33, icp:0
+[Time] build_descriptor:47.4705, candidate search:4.04795, fine loop detect:0.000212, add descriptor:6.56398, average:40.1726
+
+Key frame:34, cloud size:233006
+[Corner] corner size:100  descriptor size:5002
+[Loop Fail] 34, icp:0
+[Time] build_descriptor:44.9555, candidate search:2.65645, fine loop detect:0.000354, add descriptor:6.90428, average:40.5824
+
+Key frame:35, cloud size:235229
+[Corner] corner size:117  descriptor size:6300
+[Loop Fail] 35, icp:0
+[Time] build_descriptor:48.9814, candidate search:3.09144, fine loop detect:0.000378, add descriptor:6.20305, average:41.0739
+
+Key frame:36, cloud size:232570
+[Corner] corner size:138  descriptor size:7387
+[Loop Fail] 36, icp:0
+[Time] build_descriptor:54.294, candidate search:3.28567, fine loop detect:0.00057, add descriptor:7.3042, average:41.7174
+
+Key frame:37, cloud size:233918
+[Corner] corner size:118  descriptor size:6421
+[Loop Fail] 37, icp:0
+[Time] build_descriptor:49.0042, candidate search:4.04724, fine loop detect:0.000794, add descriptor:6.20667, average:42.179
+
+Key frame:38, cloud size:235952
+[Corner] corner size:71  descriptor size:3248
+[Loop Fail] 38, icp:0
+[Time] build_descriptor:48.0427, candidate search:2.58728, fine loop detect:0.000687, add descriptor:5.00741, average:42.5242
+
+Key frame:39, cloud size:235814
+[Corner] corner size:139  descriptor size:7426
+[Loop Fail] 39, icp:0
+[Time] build_descriptor:49.2442, candidate search:4.10097, fine loop detect:0.000272, add descriptor:7.92329, average:42.9928
+
+Key frame:40, cloud size:235910
+[Corner] corner size:101  descriptor size:5328
+[Loop Fail] 40, icp:0
+[Time] build_descriptor:59.5582, candidate search:3.36867, fine loop detect:0.001087, add descriptor:5.91127, average:43.6232
+
+Key frame:41, cloud size:235702
+[Corner] corner size:116  descriptor size:6408
+[Loop Fail] 41, icp:0
+[Time] build_descriptor:47.0886, candidate search:3.23238, fine loop detect:0.000373, add descriptor:6.44358, average:43.9361
+
+Key frame:42, cloud size:232212
+[Corner] corner size:89  descriptor size:4422
+[Loop Fail] 42, icp:0
+[Time] build_descriptor:47.2024, candidate search:3.3495, fine loop detect:0.000541, add descriptor:5.0176, average:44.2066
+
+Key frame:43, cloud size:236123
+[Corner] corner size:112  descriptor size:5837
+[Loop Fail] 43, icp:0
+[Time] build_descriptor:49.3668, candidate search:3.46325, fine loop detect:0.000338, add descriptor:6.95418, average:44.5607
+
+Key frame:44, cloud size:235676
+[Corner] corner size:136  descriptor size:7156
+[Loop Fail] 44, icp:0
+[Time] build_descriptor:59.1348, candidate search:5.49658, fine loop detect:0.000376, add descriptor:6.95563, average:45.1613
+
+Key frame:45, cloud size:235415
+[Corner] corner size:79  descriptor size:3752
+[Loop Fail] 45, icp:0
+[Time] build_descriptor:48.3122, candidate search:3.06497, fine loop detect:0.000353, add descriptor:4.50473, average:45.3943
+
+Key frame:46, cloud size:235821
+[Corner] corner size:70  descriptor size:3400
+[Loop Fail] 46, icp:0
+[Time] build_descriptor:46.4348, candidate search:2.43936, fine loop detect:0.000333, add descriptor:9.54351, average:45.6714
+
+Key frame:47, cloud size:235470
+[Corner] corner size:72  descriptor size:3409
+[Loop Fail] 47, icp:0
+[Time] build_descriptor:53.8373, candidate search:2.56312, fine loop detect:0.000419, add descriptor:4.25017, average:45.9835
+
+Key frame:48, cloud size:234935
+[Corner] corner size:74  descriptor size:3419
+[Loop Fail] 48, icp:0
+[Time] build_descriptor:47.9651, candidate search:2.26203, fine loop detect:0.000539, add descriptor:3.80041, average:46.1477
+
+Key frame:49, cloud size:232886
+[Corner] corner size:80  descriptor size:3710
+[Loop Fail] 49, icp:0
+[Time] build_descriptor:49.4904, candidate search:2.73521, fine loop detect:0.000192, add descriptor:3.76853, average:46.3446
+
+Key frame:50, cloud size:234320
+[Corner] corner size:80  descriptor size:3779
+[Loop Fail] 50, icp:0
+[Time] build_descriptor:48.5954, candidate search:2.70425, fine loop detect:0.000874, add descriptor:3.66277, average:46.5136
+
+Key frame:51, cloud size:233588
+[Corner] corner size:120  descriptor size:6380
+[Loop Fail] 51, icp:0
+[Time] build_descriptor:49.6678, candidate search:3.94141, fine loop detect:0.000821, add descriptor:5.9023, average:46.7636
+
+Key frame:52, cloud size:236898
+[Corner] corner size:75  descriptor size:3647
+[Loop Fail] 52, icp:0
+[Time] build_descriptor:48.9382, candidate search:2.68014, fine loop detect:0.000667, add descriptor:4.1153, average:46.9328
+
+Key frame:53, cloud size:235964
+[Corner] corner size:63  descriptor size:2985
+[Loop Fail] 53, icp:0
+[Time] build_descriptor:56.982, candidate search:2.4172, fine loop detect:0.000255, add descriptor:3.25964, average:47.2241
+
+Key frame:54, cloud size:235984
+[Corner] corner size:82  descriptor size:4072
+[Loop Fail] 54, icp:0
+[Time] build_descriptor:49.7898, candidate search:2.7194, fine loop detect:0.000214, add descriptor:3.85047, average:47.3902
+
+Key frame:55, cloud size:236911
+[Corner] corner size:110  descriptor size:5667
+[Loop Fail] 55, icp:0
+[Time] build_descriptor:45.3545, candidate search:3.46027, fine loop detect:0.000385, add descriptor:5.2763, average:47.5098
+
+Key frame:56, cloud size:237143
+[Corner] corner size:71  descriptor size:3416
+[Loop Fail] 56, icp:0
+[Time] build_descriptor:52.0717, candidate search:2.14829, fine loop detect:0.000489, add descriptor:4.12886, average:47.7
+
+Key frame:57, cloud size:236449
+[Corner] corner size:66  descriptor size:3049
+[Loop Fail] 57, icp:0
+[Time] build_descriptor:46.5098, candidate search:2.22281, fine loop detect:0.000442, add descriptor:3.35064, average:47.7756
+
+Key frame:58, cloud size:236679
+[Corner] corner size:84  descriptor size:4167
+[Loop Fail] 58, icp:0
+[Time] build_descriptor:57.9135, candidate search:3.44816, fine loop detect:0.000208, add descriptor:3.99875, average:48.0736
+
+Key frame:59, cloud size:235441
+[Corner] corner size:65  descriptor size:2995
+[Loop Fail] 59, icp:0
+[Time] build_descriptor:46.2731, candidate search:2.18398, fine loop detect:0.000205, add descriptor:3.59811, average:48.14
+
+Key frame:60, cloud size:236517
+[Corner] corner size:62  descriptor size:2944
+[Loop Fail] 60, icp:0
+[Time] build_descriptor:47.5316, candidate search:2.21027, fine loop detect:0.00106, add descriptor:3.35248, average:48.2212
+
+Key frame:61, cloud size:235181
+[Corner] corner size:81  descriptor size:3799
+[Loop Fail] 61, icp:0
+[Time] build_descriptor:48.239, candidate search:3.17875, fine loop detect:0.000257, add descriptor:3.79345, average:48.334
+
+Key frame:62, cloud size:234494
+[Corner] corner size:77  descriptor size:3607
+[Loop Fail] 62, icp:0
+[Time] build_descriptor:49.8388, candidate search:2.62828, fine loop detect:0.000451, add descriptor:3.8188, average:48.4602
+
+Key frame:63, cloud size:235914
+[Corner] corner size:80  descriptor size:3728
+[Loop Fail] 63, icp:0
+[Time] build_descriptor:48.2817, candidate search:2.75444, fine loop detect:0.00021, add descriptor:3.91818, average:48.5617
+
+Key frame:64, cloud size:233921
+[Corner] corner size:106  descriptor size:5249
+[Loop Fail] 64, icp:0
+[Time] build_descriptor:53.253, candidate search:5.78037, fine loop detect:0.000411, add descriptor:6.59311, average:48.8242
+
+Key frame:65, cloud size:233213
+[Corner] corner size:57  descriptor size:2647
+[Loop Fail] 65, icp:0
+[Time] build_descriptor:50.7287, candidate search:2.02542, fine loop detect:0.000309, add descriptor:3.52025, average:48.9371
+
+Key frame:66, cloud size:235532
+[Corner] corner size:74  descriptor size:3417
+[Loop Fail] 66, icp:0
+[Time] build_descriptor:51.0815, candidate search:2.85012, fine loop detect:0.00024, add descriptor:3.52257, average:49.0642
+
+Key frame:67, cloud size:234792
+[Corner] corner size:70  descriptor size:3248
+[Loop Fail] 67, icp:0
+[Time] build_descriptor:46.7529, candidate search:2.51167, fine loop detect:0.000289, add descriptor:3.10483, average:49.1128
+
+Key frame:68, cloud size:233195
+[Corner] corner size:68  descriptor size:3235
+[Loop Fail] 68, icp:0
+[Time] build_descriptor:48.2167, candidate search:2.61788, fine loop detect:0.000247, add descriptor:3.69219, average:49.1913
+
+Key frame:69, cloud size:229800
+[Corner] corner size:71  descriptor size:3396
+[Loop Fail] 69, icp:0
+[Time] build_descriptor:52.343, candidate search:2.74848, fine loop detect:0.000443, add descriptor:3.55146, average:49.3263
+
+Key frame:70, cloud size:216817
+[Corner] corner size:70  descriptor size:3285
+[Loop Fail] 70, icp:0
+[Time] build_descriptor:45.2481, candidate search:2.7705, fine loop detect:0.000202, add descriptor:3.60168, average:49.3586
+
+Key frame:71, cloud size:206483
+[Corner] corner size:92  descriptor size:4848
+[Loop Fail] 71, icp:0
+[Time] build_descriptor:43.6805, candidate search:3.34943, fine loop detect:0.001128, add descriptor:4.89817, average:49.3944
+
+Key frame:72, cloud size:213585
+[Corner] corner size:60  descriptor size:2818
+[Loop Fail] 72, icp:0
+[Time] build_descriptor:43.4995, candidate search:2.11151, fine loop detect:0.000177, add descriptor:3.26167, average:49.3872
+
+Key frame:73, cloud size:216033
+[Corner] corner size:55  descriptor size:2615
+[Loop Fail] 73, icp:0
+[Time] build_descriptor:42.4414, candidate search:2.29942, fine loop detect:0.000308, add descriptor:3.17992, average:49.3674
+
+Key frame:74, cloud size:214014
+[Corner] corner size:66  descriptor size:3224
+[Loop Fail] 74, icp:0
+[Time] build_descriptor:41.9711, candidate search:2.52579, fine loop detect:0.000188, add descriptor:3.02664, average:49.3428
+
+Key frame:75, cloud size:208954
+[Corner] corner size:93  descriptor size:4653
+[Loop Fail] 75, icp:0
+[Time] build_descriptor:40.7551, candidate search:3.30135, fine loop detect:0.00061, add descriptor:4.27499, average:49.3295
+
+Key frame:76, cloud size:201304
+[Corner] corner size:54  descriptor size:2616
+[Loop Fail] 76, icp:0
+[Time] build_descriptor:44.5717, candidate search:2.35012, fine loop detect:0.00023, add descriptor:3.14994, average:49.3392
+
+Key frame:77, cloud size:198902
+[Corner] corner size:61  descriptor size:2819
+[Loop Fail] 77, icp:0
+[Time] build_descriptor:39.9534, candidate search:2.55289, fine loop detect:0.000416, add descriptor:3.00904, average:49.2901
+
+Key frame:78, cloud size:184777
+[Corner] corner size:55  descriptor size:2577
+[Loop Fail] 78, icp:0
+[Time] build_descriptor:37.8218, candidate search:2.46168, fine loop detect:0.001053, add descriptor:3.07302, average:49.215
+
+Key frame:79, cloud size:150508
+[Corner] corner size:50  descriptor size:2366
+[Loop Fail] 79, icp:0
+[Time] build_descriptor:29.5536, candidate search:2.38206, fine loop detect:0.000686, add descriptor:3.30578, average:49.0404
+
+Key frame:80, cloud size:155495
+[Corner] corner size:42  descriptor size:1846
+[Loop Fail] 80, icp:0
+[Time] build_descriptor:28.6256, candidate search:1.8171, fine loop detect:0.000417, add descriptor:2.26014, average:48.8387
+
+Key frame:81, cloud size:172252
+[Corner] corner size:48  descriptor size:2225
+[Loop Fail] 81, icp:0
+[Time] build_descriptor:34.2549, candidate search:1.89045, fine loop detect:0.000455, add descriptor:2.47257, average:48.714
+
+Key frame:82, cloud size:183128
+[Corner] corner size:39  descriptor size:1822
+[Loop Fail] 82, icp:0
+[Time] build_descriptor:37.8712, candidate search:2.17108, fine loop detect:0.000407, add descriptor:2.37116, average:48.6381
+
+Key frame:83, cloud size:187017
+[Corner] corner size:50  descriptor size:2318
+[Loop Fail] 83, icp:0
+[Time] build_descriptor:39.5811, candidate search:2.10822, fine loop detect:0.000195, add descriptor:2.54755, average:48.5857
+
+Key frame:84, cloud size:189104
+[Corner] corner size:48  descriptor size:2171
+[Loop Fail] 84, icp:0
+[Time] build_descriptor:35.8469, candidate search:2.02439, fine loop detect:0.00023, add descriptor:2.69832, average:48.4914
+
+Key frame:85, cloud size:184991
+[Corner] corner size:51  descriptor size:2393
+[Loop Fail] 85, icp:0
+[Time] build_descriptor:36.2837, candidate search:2.1715, fine loop detect:0.000316, add descriptor:2.67838, average:48.4059
+
+Key frame:86, cloud size:186083
+[Corner] corner size:51  descriptor size:2305
+[Loop Fail] 86, icp:0
+[Time] build_descriptor:37.8431, candidate search:2.0432, fine loop detect:0.000505, add descriptor:2.45508, average:48.3362
+
+Key frame:87, cloud size:188064
+[Corner] corner size:49  descriptor size:2255
+[Loop Fail] 87, icp:0
+[Time] build_descriptor:36.9068, candidate search:2.05826, fine loop detect:0.000242, add descriptor:2.65405, average:48.2599
+
+Key frame:88, cloud size:188151
+[Corner] corner size:40  descriptor size:1734
+[Loop Fail] 88, icp:0
+[Time] build_descriptor:41.7644, candidate search:1.84539, fine loop detect:0.000245, add descriptor:2.45269, average:48.2352
+
+Key frame:89, cloud size:191432
+[Corner] corner size:52  descriptor size:2303
+[Loop Fail] 89, icp:0
+[Time] build_descriptor:35.9651, candidate search:2.05431, fine loop detect:0.0003, add descriptor:2.55666, average:48.1501
+
+Key frame:90, cloud size:192161
+[Corner] corner size:47  descriptor size:1954
+[Loop Fail] 90, icp:0
+[Time] build_descriptor:36.1572, candidate search:1.92765, fine loop detect:0.000668, add descriptor:2.23361, average:48.064
+
+Key frame:91, cloud size:193015
+[Corner] corner size:40  descriptor size:1823
+[Loop Fail] 91, icp:0
+[Time] build_descriptor:37.5619, candidate search:1.70784, fine loop detect:0.000314, add descriptor:1.92168, average:47.9893
+
+Key frame:92, cloud size:193962
+[Corner] corner size:69  descriptor size:3434
+[Loop Fail] 92, icp:0
+[Time] build_descriptor:36.2325, candidate search:3.17951, fine loop detect:0.000301, add descriptor:3.14486, average:47.9309
+
+Key frame:93, cloud size:193687
+[Corner] corner size:75  descriptor size:3552
+[Loop Fail] 93, icp:0
+[Time] build_descriptor:37.9866, candidate search:3.0743, fine loop detect:0.000228, add descriptor:3.74222, average:47.8976
+
+Key frame:94, cloud size:195102
+[Corner] corner size:45  descriptor size:1971
+[Loop Fail] 94, icp:0
+[Time] build_descriptor:47.1063, candidate search:1.92237, fine loop detect:0.000629, add descriptor:2.98401, average:47.941
+
+Key frame:95, cloud size:195477
+[Corner] corner size:47  descriptor size:2135
+[Loop Fail] 95, icp:0
+[Time] build_descriptor:35.9975, candidate search:1.94103, fine loop detect:0.000717, add descriptor:2.64936, average:47.8644
+
+Key frame:96, cloud size:197376
+[Corner] corner size:36  descriptor size:1618
+[Loop Fail] 96, icp:0
+[Time] build_descriptor:36.649, candidate search:1.66031, fine loop detect:0.000238, add descriptor:2.30837, average:47.7897
+
+Key frame:97, cloud size:197226
+[Corner] corner size:46  descriptor size:2087
+[Loop Fail] 97, icp:0
+[Time] build_descriptor:36.0755, candidate search:2.26337, fine loop detect:0.000192, add descriptor:1.88735, average:47.7125
+
+Key frame:98, cloud size:196614
+[Corner] corner size:52  descriptor size:2260
+[Loop Fail] 98, icp:0
+[Time] build_descriptor:38.4276, candidate search:2.26628, fine loop detect:0.000634, add descriptor:2.42568, average:47.6661
+
+Key frame:99, cloud size:198396
+[Corner] corner size:75  descriptor size:3648
+[Loop Fail] 99, icp:0
+[Time] build_descriptor:39.2215, candidate search:2.98363, fine loop detect:0.00067, add descriptor:3.49123, average:47.6464
+
+Key frame:100, cloud size:198724
+[Corner] corner size:53  descriptor size:2446
+[Loop Fail] 100, icp:0
+[Time] build_descriptor:40.9862, candidate search:2.17588, fine loop detect:0.000402, add descriptor:3.12517, average:47.633
+
+Key frame:101, cloud size:196641
+[Corner] corner size:53  descriptor size:2432
+[Loop Fail] 101, icp:0
+[Time] build_descriptor:35.8782, candidate search:2.57841, fine loop detect:0.031548, add descriptor:2.91248, average:47.5719
+
+Key frame:102, cloud size:198606
+[Corner] corner size:43  descriptor size:2074
+[Loop Fail] 102, icp:0
+[Time] build_descriptor:37.2617, candidate search:1.8541, fine loop detect:0.026453, add descriptor:2.98044, average:47.519
+
+Key frame:103, cloud size:200221
+[Corner] corner size:41  descriptor size:1782
+[Loop Fail] 103, icp:0
+[Time] build_descriptor:37.195, candidate search:1.7517, fine loop detect:0.029686, add descriptor:2.25367, average:47.4585
+
+Key frame:104, cloud size:198755
+[Corner] corner size:87  descriptor size:4344
+[Loop Fail] 104, icp:0
+[Time] build_descriptor:36.8019, candidate search:3.2152, fine loop detect:0.087781, add descriptor:4.30419, average:47.4294
+
+Key frame:105, cloud size:195633
+[Corner] corner size:77  descriptor size:3908
+[Loop Fail] 105, icp:0
+[Time] build_descriptor:37.0432, candidate search:3.36888, fine loop detect:0.074621, add descriptor:3.77425, average:47.3996
+
+Key frame:106, cloud size:195170
+[Corner] corner size:72  descriptor size:3431
+[Loop Fail] 106, icp:0
+[Time] build_descriptor:38.6317, candidate search:3.25646, fine loop detect:0.172051, add descriptor:3.41223, average:47.3815
+
+Key frame:107, cloud size:196689
+[Corner] corner size:74  descriptor size:3637
+[Loop Fail] 107, icp:0
+[Time] build_descriptor:39.7702, candidate search:7.44467, fine loop detect:0.144143, add descriptor:3.81806, average:47.4167
+
+Key frame:108, cloud size:198508
+[Corner] corner size:81  descriptor size:4149
+[Loop Fail] 108, icp:0
+[Time] build_descriptor:41.8148, candidate search:3.95878, fine loop detect:0.264645, add descriptor:4.07801, average:47.4415
+
+Key frame:109, cloud size:197133
+[Corner] corner size:87  descriptor size:4316
+[Loop Fail] 109, icp:0
+[Time] build_descriptor:36.9221, candidate search:4.63389, fine loop detect:0.502945, add descriptor:4.08359, average:47.4296
+
+Key frame:110, cloud size:197444
+[Corner] corner size:67  descriptor size:3285
+[Loop Fail] 110, icp:0
+[Time] build_descriptor:38.9989, candidate search:4.16025, fine loop detect:0.353507, add descriptor:3.29821, average:47.4241
+
+Key frame:111, cloud size:198974
+[Corner] corner size:58  descriptor size:2693
+[Loop Fail] 111, icp:0
+[Time] build_descriptor:39.1201, candidate search:3.19887, fine loop detect:0.429516, add descriptor:2.98742, average:47.409
+
+Key frame:112, cloud size:199174
+[Corner] corner size:56  descriptor size:2601
+[Loop Fail] 112, icp:0
+[Time] build_descriptor:37.7742, candidate search:3.58079, fine loop detect:0.382263, add descriptor:2.63994, average:47.3822
+
+Key frame:113, cloud size:196735
+[Corner] corner size:94  descriptor size:4770
+[Loop Fail] 113, icp:0
+[Time] build_descriptor:52.3854, candidate search:5.06364, fine loop detect:0.723587, add descriptor:4.63253, average:47.5175
+
+Key frame:114, cloud size:197046
+[Corner] corner size:81  descriptor size:4007
+[Loop Sucess] 114--8, candidate id:4, icp:0.398095
+[Loop Info] rough size:37, match size:5, rough triangle dis:0.00725755, fine triangle dis:0.00454965, rough binary similarity:0.577174, fine binary similarity:0.738349
+[Time] build_descriptor:37.7447, candidate search:5.69349, fine loop detect:1.54448, add descriptor:4.11612, average:47.5312
+
+Key frame:115, cloud size:194116
+[Corner] corner size:73  descriptor size:3693
+[Loop Sucess] 115--13, candidate id:7, icp:0.0838095
+[Loop Info] rough size:21, match size:5, rough triangle dis:0.0077571, fine triangle dis:0.00787529, rough binary similarity:0.575378, fine binary similarity:0.595411
+[Time] build_descriptor:33.7637, candidate search:4.46498, fine loop detect:1.03256, add descriptor:3.77513, average:47.4925
+
+Key frame:116, cloud size:195416
+[Corner] corner size:96  descriptor size:4898
+[Loop Fail] 116, icp:0
+[Time] build_descriptor:41.4609, candidate search:6.48768, fine loop detect:1.10611, add descriptor:4.28393, average:47.5424
+
+Key frame:117, cloud size:194509
+[Corner] corner size:86  descriptor size:4159
+[Loop Fail] 117, icp:0
+[Time] build_descriptor:39.9481, candidate search:5.14602, fine loop detect:0.934284, add descriptor:3.94112, average:47.563
+
+Key frame:118, cloud size:192587
+[Corner] corner size:84  descriptor size:4080
+[Loop Sucess] 118--17, candidate id:1, icp:0.509804
+[Loop Info] rough size:54, match size:8, rough triangle dis:0.00729095, fine triangle dis:0.00561645, rough binary similarity:0.55693, fine binary similarity:0.680791
+[Time] build_descriptor:41.5771, candidate search:6.49836, fine loop detect:2.15464, add descriptor:5.41884, average:47.6309
+
+Key frame:119, cloud size:193146
+[Corner] corner size:82  descriptor size:4205
+[Loop Sucess] 119--18, candidate id:0, icp:0.0198807
+[Loop Info] rough size:60, match size:4, rough triangle dis:0.00754448, fine triangle dis:0.0064683, rough binary similarity:0.571245, fine binary similarity:0.582761
+[Time] build_descriptor:40.2377, candidate search:5.05599, fine loop detect:1.70219, add descriptor:4.69804, average:47.6648
+
+Key frame:120, cloud size:192176
+[Corner] corner size:78  descriptor size:3756
+[Loop Fail] 120, icp:0
+[Time] build_descriptor:34.3164, candidate search:6.10781, fine loop detect:1.13056, add descriptor:3.56917, average:47.6438
+
+Key frame:121, cloud size:191772
+[Corner] corner size:74  descriptor size:3640
+[Loop Sucess] 121--15, candidate id:8, icp:0.428854
+[Loop Info] rough size:25, match size:5, rough triangle dis:0.00729133, fine triangle dis:0.00281767, rough binary similarity:0.551621, fine binary similarity:0.778158
+[Time] build_descriptor:35.2223, candidate search:4.82806, fine loop detect:1.87309, add descriptor:3.72947, average:47.6275
+
+Key frame:122, cloud size:191381
+[Corner] corner size:71  descriptor size:3599
+[Loop Fail] 122, icp:0
+[Time] build_descriptor:33.1606, candidate search:4.70076, fine loop detect:1.19432, add descriptor:3.715, average:47.588
+
+Key frame:123, cloud size:199984
+[Corner] corner size:90  descriptor size:4656
+[Loop Fail] 123, icp:0
+[Time] build_descriptor:44.4664, candidate search:6.6964, fine loop detect:1.78778, add descriptor:4.25364, average:47.6655
+
+Key frame:124, cloud size:208912
+[Corner] corner size:90  descriptor size:4509
+[Loop Fail] 124, icp:0
+[Time] build_descriptor:42.9677, candidate search:8.33213, fine loop detect:2.22958, add descriptor:5.14735, average:47.7536
+
+Key frame:125, cloud size:205014
+[Corner] corner size:94  descriptor size:4713
+[Loop Fail] 125, icp:0
+[Time] build_descriptor:41.2616, candidate search:6.93494, fine loop detect:1.36208, add descriptor:4.57011, average:47.8042
+
+Key frame:126, cloud size:193927
+[Corner] corner size:79  descriptor size:3952
+[Loop Fail] 126, icp:0
+[Time] build_descriptor:37.8249, candidate search:6.69193, fine loop detect:1.68832, add descriptor:3.99436, average:47.8231
+
+Key frame:127, cloud size:181905
+[Corner] corner size:72  descriptor size:3654
+[Loop Fail] 127, icp:0
+[Time] build_descriptor:35.0791, candidate search:5.48412, fine loop detect:1.41848, add descriptor:4.15261, average:47.8099
+
+Key frame:128, cloud size:171099
+[Corner] corner size:71  descriptor size:3673
+[Loop Fail] 128, icp:0
+[Time] build_descriptor:31.4194, candidate search:5.76503, fine loop detect:1.91031, add descriptor:3.64872, average:47.7706
+
+Key frame:129, cloud size:159275
+[Corner] corner size:56  descriptor size:2837
+[Loop Fail] 129, icp:0
+[Time] build_descriptor:35.8969, candidate search:7.20273, fine loop detect:1.00208, add descriptor:3.53016, average:47.7696
+
+Key frame:130, cloud size:143101
+[Corner] corner size:49  descriptor size:2338
+[Loop Fail] 130, icp:0
+[Time] build_descriptor:26.0901, candidate search:4.03964, fine loop detect:0.654994, add descriptor:3.09251, average:47.6635
+
+Key frame:131, cloud size:90329
+[Corner] corner size:63  descriptor size:3119
+[Loop Fail] 131, icp:0
+[Time] build_descriptor:25.3529, candidate search:5.29095, fine loop detect:0.789002, add descriptor:3.13001, average:47.5643
+
+Key frame:132, cloud size:63418
+[Corner] corner size:48  descriptor size:2221
+[Loop Fail] 132, icp:0
+[Time] build_descriptor:16.0512, candidate search:4.62027, fine loop detect:0.736359, add descriptor:2.21556, average:47.3843
+
+Key frame:133, cloud size:70576
+[Corner] corner size:53  descriptor size:2652
+[Loop Fail] 133, icp:0
+[Time] build_descriptor:20.7404, candidate search:5.12348, fine loop detect:1.09115, add descriptor:2.68032, average:47.2518
+
+Key frame:134, cloud size:82492
+[Corner] corner size:56  descriptor size:2585
+[Loop Fail] 134, icp:0
+[Time] build_descriptor:22.1652, candidate search:4.63307, fine loop detect:1.14385, add descriptor:2.82173, average:47.1297
+
+Key frame:135, cloud size:86874
+[Corner] corner size:60  descriptor size:2869
+[Loop Fail] 135, icp:0
+[Time] build_descriptor:22.5181, candidate search:5.46864, fine loop detect:1.28207, add descriptor:2.59878, average:47.0174
+
+Key frame:136, cloud size:87020
+[Corner] corner size:32  descriptor size:1431
+[Loop Fail] 136, icp:0
+[Time] build_descriptor:16.4397, candidate search:3.20708, fine loop detect:0.315083, add descriptor:2.44392, average:46.8378
+
+Key frame:137, cloud size:86024
+[Corner] corner size:31  descriptor size:1359
+[Loop Fail] 137, icp:0
+[Time] build_descriptor:21.6701, candidate search:2.92026, fine loop detect:0.20044, add descriptor:1.86957, average:46.6916
+
+Key frame:138, cloud size:86055
+[Corner] corner size:73  descriptor size:3633
+[Loop Fail] 138, icp:0
+[Time] build_descriptor:21.2555, candidate search:6.82582, fine loop detect:1.866, add descriptor:3.04006, average:46.593
+
+Key frame:139, cloud size:86476
+[Corner] corner size:32  descriptor size:1422
+[Loop Fail] 139, icp:0
+[Time] build_descriptor:16.3218, candidate search:2.94372, fine loop detect:0.430052, add descriptor:1.47776, average:46.4114
+
+Key frame:140, cloud size:86252
+[Corner] corner size:39  descriptor size:1794
+[Loop Fail] 140, icp:0
+[Time] build_descriptor:16.91, candidate search:3.02444, fine loop detect:0.250397, add descriptor:1.83657, average:46.2384
+
+Key frame:141, cloud size:87920
+[Corner] corner size:40  descriptor size:1834
+[Loop Fail] 141, icp:0
+[Time] build_descriptor:16.3851, candidate search:3.3715, fine loop detect:0.637896, add descriptor:2.19319, average:46.0719
+
+Key frame:142, cloud size:88779
+[Corner] corner size:30  descriptor size:1192
+[Loop Fail] 142, icp:0
+[Time] build_descriptor:16.8622, candidate search:2.46249, fine loop detect:0.242472, add descriptor:1.54329, average:45.8973
+
+Key frame:143, cloud size:89264
+[Corner] corner size:40  descriptor size:1916
+[Loop Fail] 143, icp:0
+[Time] build_descriptor:16.6963, candidate search:3.11935, fine loop detect:0.490503, add descriptor:1.86731, average:45.7326
+
+Key frame:144, cloud size:87968
+[Corner] corner size:36  descriptor size:1652
+[Loop Fail] 144, icp:0
+[Time] build_descriptor:17.9498, candidate search:3.85707, fine loop detect:0.599498, add descriptor:1.91388, average:45.5849
+
+Key frame:145, cloud size:90641
+[Corner] corner size:31  descriptor size:1462
+[Loop Fail] 145, icp:0
+[Time] build_descriptor:18.8426, candidate search:2.32944, fine loop detect:0.166442, add descriptor:1.68169, average:45.4304
+
+Key frame:146, cloud size:92333
+[Corner] corner size:31  descriptor size:1426
+[Loop Fail] 146, icp:0
+[Time] build_descriptor:17.7124, candidate search:2.55298, fine loop detect:0.312149, add descriptor:1.44147, average:45.2711
+
+Key frame:147, cloud size:93589
+[Corner] corner size:41  descriptor size:1824
+[Loop Fail] 147, icp:0
+[Time] build_descriptor:17.3995, candidate search:3.91311, fine loop detect:0.80311, add descriptor:1.70238, average:45.1262
+
+Key frame:148, cloud size:94062
+[Corner] corner size:36  descriptor size:1517
+[Loop Fail] 148, icp:0
+[Time] build_descriptor:17.8618, candidate search:3.30482, fine loop detect:0.659371, add descriptor:1.58167, average:44.9804
+
+Key frame:149, cloud size:94157
+[Corner] corner size:46  descriptor size:2216
+[Loop Fail] 149, icp:0.00251889
+[Time] build_descriptor:24.5834, candidate search:7.02192, fine loop detect:2.90261, add descriptor:2.31212, average:44.926
+
+Key frame:150, cloud size:96387
+[Corner] corner size:37  descriptor size:1659
+[Loop Fail] 150, icp:0
+[Time] build_descriptor:22.8085, candidate search:4.33612, fine loop detect:1.04534, add descriptor:1.76905, average:44.8269
+
+Key frame:151, cloud size:98074
+[Corner] corner size:51  descriptor size:2496
+[Loop Fail] 151, icp:0
+[Time] build_descriptor:27.4542, candidate search:8.58237, fine loop detect:3.9912, add descriptor:3.01888, average:44.8152
+
+Key frame:152, cloud size:101470
+[Corner] corner size:58  descriptor size:2841
+[Loop Fail] 152, icp:0
+[Time] build_descriptor:26.1876, candidate search:8.04588, fine loop detect:2.89134, add descriptor:3.01203, average:44.7846
+
+Key frame:153, cloud size:102938
+[Corner] corner size:36  descriptor size:1535
+[Loop Sucess] 153--32, candidate id:6, icp:0.0372208
+[Loop Info] rough size:20, match size:4, rough triangle dis:0.00701646, fine triangle dis:0.00571054, rough binary similarity:0.544528, fine binary similarity:0.558299
+[Time] build_descriptor:23.9255, candidate search:4.39347, fine loop detect:1.72513, add descriptor:1.85338, average:44.7009
+
+Key frame:154, cloud size:105061
+[Corner] corner size:37  descriptor size:1762
+[Loop Fail] 154, icp:0
+[Time] build_descriptor:23.9392, candidate search:5.47227, fine loop detect:1.19114, add descriptor:1.7863, average:44.6215
+
+Key frame:155, cloud size:105815
+[Corner] corner size:33  descriptor size:1525
+[Loop Fail] 155, icp:0
+[Time] build_descriptor:24.1252, candidate search:3.97292, fine loop detect:1.07083, add descriptor:2.03403, average:44.5354
+
+Key frame:156, cloud size:106106
+[Corner] corner size:31  descriptor size:1415
+[Loop Fail] 156, icp:0
+[Time] build_descriptor:23.4327, candidate search:4.77384, fine loop detect:1.12133, add descriptor:1.44636, average:44.4478
+
+Key frame:157, cloud size:108672
+[Corner] corner size:59  descriptor size:3017
+[Loop Fail] 157, icp:0
+[Time] build_descriptor:26.4416, candidate search:9.18279, fine loop detect:3.12875, add descriptor:4.91852, average:44.4429
+
+Key frame:158, cloud size:109920
+[Corner] corner size:63  descriptor size:3323
+[Loop Fail] 158, icp:0
+[Time] build_descriptor:32.713, candidate search:9.40719, fine loop detect:3.82664, add descriptor:3.14581, average:44.4721
+
+Key frame:159, cloud size:109918
+[Corner] corner size:41  descriptor size:1924
+[Loop Fail] 159, icp:0
+[Time] build_descriptor:25.4504, candidate search:6.334, fine loop detect:2.7035, add descriptor:2.41394, average:44.4248
+
+Key frame:160, cloud size:110052
+[Corner] corner size:31  descriptor size:1427
+[Loop Fail] 160, icp:0
+[Time] build_descriptor:25.3558, candidate search:5.19923, fine loop detect:1.48426, add descriptor:1.72762, average:44.3586
+
+Key frame:161, cloud size:108504
+[Corner] corner size:37  descriptor size:1699
+[Loop Fail] 161, icp:0
+[Time] build_descriptor:25.7496, candidate search:4.93347, fine loop detect:1.7023, add descriptor:1.69797, average:44.2952
+
+Key frame:162, cloud size:106681
+[Corner] corner size:39  descriptor size:1775
+[Loop Fail] 162, icp:0
+[Time] build_descriptor:24.1081, candidate search:5.99907, fine loop detect:1.79439, add descriptor:1.67001, average:44.2294
+
+Key frame:163, cloud size:106421
+[Corner] corner size:32  descriptor size:1389
+[Loop Fail] 163, icp:0
+[Time] build_descriptor:26.6791, candidate search:5.82138, fine loop detect:5.94813, add descriptor:2.1209, average:44.2071
+
+Key frame:164, cloud size:104036
+[Corner] corner size:34  descriptor size:1514
+[Loop Fail] 164, icp:0
+[Time] build_descriptor:26.9245, candidate search:5.76543, fine loop detect:2.11128, add descriptor:1.53687, average:44.1594
+
+Key frame:165, cloud size:100764
+[Corner] corner size:33  descriptor size:1418
+[Loop Fail] 165, icp:0
+[Time] build_descriptor:24.8696, candidate search:5.07502, fine loop detect:1.74938, add descriptor:1.43514, average:44.0929
+
+Key frame:166, cloud size:94933
+[Corner] corner size:31  descriptor size:1295
+[Loop Fail] 166, icp:0
+[Time] build_descriptor:23.4491, candidate search:4.7385, fine loop detect:1.43274, add descriptor:1.4875, average:44.0152
+
+Key frame:167, cloud size:92501
+[Corner] corner size:39  descriptor size:1759
+[Loop Sucess] 167--23, candidate id:1, icp:0.0412698
+[Loop Info] rough size:54, match size:4, rough triangle dis:0.007358, fine triangle dis:0.00719991, rough binary similarity:0.604128, fine binary similarity:0.600665
+[Time] build_descriptor:22.999, candidate search:6.42525, fine loop detect:3.22965, add descriptor:2.59041, average:43.963
+
+Key frame:168, cloud size:93187
+[Corner] corner size:48  descriptor size:2286
+[Loop Fail] 168, icp:0
+[Time] build_descriptor:22.4772, candidate search:5.52255, fine loop detect:1.52919, add descriptor:3.11503, average:43.896
+
+Key frame:169, cloud size:88244
+[Corner] corner size:38  descriptor size:1683
+[Loop Fail] 169, icp:0
+[Time] build_descriptor:22.4779, candidate search:6.36066, fine loop detect:2.45434, add descriptor:1.63973, average:43.8315
+
+Key frame:170, cloud size:86297
+[Corner] corner size:35  descriptor size:1446
+[Loop Sucess] 170--49, candidate id:4, icp:0.0194805
+[Loop Info] rough size:21, match size:5, rough triangle dis:0.00644469, fine triangle dis:0.006559, rough binary similarity:0.603125, fine binary similarity:0.666746
+[Time] build_descriptor:24.6274, candidate search:5.33896, fine loop detect:2.73681, add descriptor:1.85052, average:43.7773
+
+Key frame:171, cloud size:86087
+[Corner] corner size:37  descriptor size:1579
+[Loop Fail] 171, icp:0
+[Time] build_descriptor:23.6997, candidate search:5.59539, fine loop detect:1.80895, add descriptor:1.53262, average:43.7125
+
+Key frame:172, cloud size:82706
+[Corner] corner size:28  descriptor size:1226
+[Loop Fail] 172, icp:0
+[Time] build_descriptor:23.4832, candidate search:4.48566, fine loop detect:1.56786, add descriptor:1.22038, average:43.6376
+
+Key frame:173, cloud size:83382
+[Corner] corner size:27  descriptor size:1183
+[Loop Fail] 173, icp:0
+[Time] build_descriptor:21.8816, candidate search:3.89566, fine loop detect:1.28698, add descriptor:1.45021, average:43.5507
+
+Key frame:174, cloud size:82971
+[Corner] corner size:30  descriptor size:1127
+[Loop Fail] 174, icp:0
+[Time] build_descriptor:20.6117, candidate search:4.79332, fine loop detect:1.79107, add descriptor:1.19114, average:43.464
+
+Key frame:175, cloud size:82799
+[Corner] corner size:38  descriptor size:1708
+[Loop Fail] 175, icp:0
+[Time] build_descriptor:23.0297, candidate search:5.72307, fine loop detect:2.78545, add descriptor:1.6887, average:43.4059
+
+Key frame:176, cloud size:81720
+[Corner] corner size:30  descriptor size:1230
+[Loop Fail] 176, icp:0
+[Time] build_descriptor:21.9353, candidate search:4.37372, fine loop detect:1.61361, add descriptor:14.4937, average:43.4003
+
+Key frame:177, cloud size:87641
+[Corner] corner size:64  descriptor size:3190
+[Loop Fail] 177, icp:0
+[Time] build_descriptor:23.4581, candidate search:9.01597, fine loop detect:3.20777, add descriptor:3.02456, average:43.3739
+
+Key frame:178, cloud size:80882
+[Corner] corner size:46  descriptor size:2106
+[Loop Fail] 178, icp:0
+[Time] build_descriptor:31.2338, candidate search:9.54793, fine loop detect:5.95902, add descriptor:2.56693, average:43.4071
+
+Key frame:179, cloud size:49677
+[Corner] corner size:23  descriptor size:885
+[Loop Fail] 179, icp:0
+[Time] build_descriptor:14.3561, candidate search:2.65465, fine loop detect:0.79743, add descriptor:1.07567, average:43.2708
+
+Key frame:180, cloud size:43046
+[Corner] corner size:26  descriptor size:957
+[Loop Fail] 180, icp:0
+[Time] build_descriptor:12.3683, candidate search:4.48332, fine loop detect:2.73072, add descriptor:1.06299, average:43.1458
+
+Key frame:181, cloud size:48572
+[Corner] corner size:17  descriptor size:560
+[Loop Fail] 181, icp:0
+[Time] build_descriptor:12.6644, candidate search:2.26807, fine loop detect:0.627283, add descriptor:0.650359, average:42.9978
+
+Key frame:182, cloud size:56004
+[Corner] corner size:14  descriptor size:335
+[Loop Sucess] 182--62, candidate id:7, icp:0.11039
+[Loop Info] rough size:9, match size:4, rough triangle dis:0.00536968, fine triangle dis:0.0036986, rough binary similarity:0.59381, fine binary similarity:0.575
+[Time] build_descriptor:13.8756, candidate search:2.43022, fine loop detect:0.844185, add descriptor:0.577884, average:42.8597
+
+Key frame:183, cloud size:65894
+[Corner] corner size:29  descriptor size:1194
+[Loop Fail] 183, icp:0
+[Time] build_descriptor:16.0193, candidate search:4.94512, fine loop detect:2.63923, add descriptor:1.40149, average:42.7627
+
+Key frame:184, cloud size:80346
+[Corner] corner size:57  descriptor size:2795
+[Loop Fail] 184, icp:0
+[Time] build_descriptor:17.6806, candidate search:6.91167, fine loop detect:1.74653, add descriptor:2.35103, average:42.6866
+
+Key frame:185, cloud size:101799
+[Corner] corner size:61  descriptor size:2957
+[Loop Fail] 185, icp:0
+[Time] build_descriptor:22.4639, candidate search:7.61629, fine loop detect:2.43301, add descriptor:3.04244, average:42.6483
+
+Key frame:186, cloud size:121026
+[Corner] corner size:39  descriptor size:1727
+[Loop Fail] 186, icp:0.00766284
+[Time] build_descriptor:32.5978, candidate search:9.54335, fine loop detect:5.99277, add descriptor:1.92563, average:42.6879
+
+Key frame:187, cloud size:132731
+[Corner] corner size:46  descriptor size:2134
+[Loop Sucess] 187--63, candidate id:11, icp:0.0436242
+[Loop Info] rough size:49, match size:4, rough triangle dis:0.00756235, fine triangle dis:0.00605716, rough binary similarity:0.579023, fine binary similarity:0.580733
+[Time] build_descriptor:28.3641, candidate search:8.79034, fine loop detect:5.54551, add descriptor:2.23473, average:42.6999
+
+Key frame:188, cloud size:147567
+[Corner] corner size:51  descriptor size:2352
+[Loop Sucess] 188--87, candidate id:11, icp:0.244838
+[Loop Info] rough size:82, match size:4, rough triangle dis:0.00680977, fine triangle dis:0.00133093, rough binary similarity:0.605669, fine binary similarity:0.62964
+[Time] build_descriptor:29.8581, candidate search:11.7626, fine loop detect:8.18847, add descriptor:2.57091, average:42.7511
+
+Key frame:189, cloud size:161546
+[Corner] corner size:46  descriptor size:2039
+[Loop Sucess] 189--82, candidate id:5, icp:0.602094
+[Loop Info] rough size:84, match size:8, rough triangle dis:0.00653886, fine triangle dis:0.00421643, rough binary similarity:0.631143, fine binary similarity:0.737747
+[Time] build_descriptor:31.0618, candidate search:9.31691, fine loop detect:5.93327, add descriptor:2.10176, average:42.7809
+
+Key frame:190, cloud size:174468
+[Corner] corner size:50  descriptor size:2295
+[Loop Sucess] 190--80, candidate id:9, icp:0.0649038
+[Loop Info] rough size:83, match size:12, rough triangle dis:0.00686298, fine triangle dis:0.00552979, rough binary similarity:0.603539, fine binary similarity:0.800159
+[Time] build_descriptor:35.8898, candidate search:9.69593, fine loop detect:6.67614, add descriptor:2.38934, average:42.843
+
+Key frame:191, cloud size:185485
+[Corner] corner size:48  descriptor size:2098
+[Loop Sucess] 191--82, candidate id:9, icp:0.0350515
+[Loop Info] rough size:68, match size:4, rough triangle dis:0.00692573, fine triangle dis:0.00726911, rough binary similarity:0.638506, fine binary similarity:0.612797
+[Time] build_descriptor:36.7085, candidate search:8.9332, fine loop detect:6.07847, add descriptor:2.44728, average:42.902
+
+Key frame:192, cloud size:191275
+[Corner] corner size:61  descriptor size:2872
+[Loop Sucess] 192--87, candidate id:19, icp:0.571992
+[Loop Info] rough size:86, match size:4, rough triangle dis:0.00732221, fine triangle dis:0.00415252, rough binary similarity:0.638444, fine binary similarity:0.701852
+[Time] build_descriptor:36.6816, candidate search:13.9366, fine loop detect:11.8175, add descriptor:2.89168, average:43.0182
+
+Key frame:193, cloud size:202115
+[Corner] corner size:50  descriptor size:2194
+[Loop Sucess] 193--78, candidate id:2, icp:0.682482
+[Loop Info] rough size:83, match size:4, rough triangle dis:0.0066708, fine triangle dis:0.00415316, rough binary similarity:0.613115, fine binary similarity:0.734922
+[Time] build_descriptor:40.1914, candidate search:8.84831, fine loop detect:5.97101, add descriptor:2.50012, average:43.0929
+
+Key frame:194, cloud size:208164
+[Corner] corner size:64  descriptor size:3052
+[Loop Sucess] 194--68, candidate id:17, icp:0.707361
+[Loop Info] rough size:100, match size:4, rough triangle dis:0.0069592, fine triangle dis:0.00309144, rough binary similarity:0.627762, fine binary similarity:0.815688
+[Time] build_descriptor:42.7013, candidate search:15.0132, fine loop detect:11.195, add descriptor:3.12199, average:43.2413
+
+Key frame:195, cloud size:214472
+[Corner] corner size:72  descriptor size:3467
+[Loop Sucess] 195--74, candidate id:1, icp:0.105085
+[Loop Info] rough size:172, match size:4, rough triangle dis:0.00697921, fine triangle dis:0.00593523, rough binary similarity:0.631323, fine binary similarity:0.655524
+[Time] build_descriptor:44.6795, candidate search:14.6078, fine loop detect:10.7456, add descriptor:3.5481, average:43.3961
+
+Key frame:196, cloud size:220929
+[Corner] corner size:59  descriptor size:2852
+[Loop Sucess] 196--70, candidate id:13, icp:0.205371
+[Loop Info] rough size:51, match size:4, rough triangle dis:0.00684216, fine triangle dis:0.00327924, rough binary similarity:0.609956, fine binary similarity:0.585839
+[Time] build_descriptor:48.1605, candidate search:9.08185, fine loop detect:5.48982, add descriptor:2.92048, average:43.5091
+
+Key frame:197, cloud size:219372
+[Corner] corner size:62  descriptor size:2885
+[Loop Sucess] 197--69, candidate id:4, icp:0.70625
+[Loop Info] rough size:72, match size:6, rough triangle dis:0.00697058, fine triangle dis:0.00461946, rough binary similarity:0.604107, fine binary similarity:0.793132
+[Time] build_descriptor:46.1936, candidate search:10.3561, fine loop detect:7.99818, add descriptor:2.96473, average:43.6303
+
+Key frame:198, cloud size:219333
+[Corner] corner size:65  descriptor size:3185
+[Loop Sucess] 198--72, candidate id:27, icp:0.568289
+[Loop Info] rough size:41, match size:6, rough triangle dis:0.00704533, fine triangle dis:0.00545747, rough binary similarity:0.586514, fine binary similarity:0.75125
+[Time] build_descriptor:47.5687, candidate search:10.5905, fine loop detect:5.66617, add descriptor:3.25997, average:43.7482
+
+Key frame:199, cloud size:221443
+[Corner] corner size:71  descriptor size:3424
+[Loop Sucess] 199--69, candidate id:10, icp:0.76873
+[Loop Info] rough size:91, match size:8, rough triangle dis:0.00648907, fine triangle dis:0.00384615, rough binary similarity:0.611275, fine binary similarity:0.716038
+[Time] build_descriptor:51.8807, candidate search:14.726, fine loop detect:10.3121, add descriptor:3.92489, average:43.9337
+
+Key frame:200, cloud size:228188
+[Corner] corner size:65  descriptor size:3090
+[Loop Sucess] 200--73, candidate id:44, icp:0.673502
+[Loop Info] rough size:41, match size:4, rough triangle dis:0.00662927, fine triangle dis:0.00147378, rough binary similarity:0.615321, fine binary similarity:0.834941
+[Time] build_descriptor:47.8976, candidate search:12.6682, fine loop detect:8.11539, add descriptor:3.38086, average:44.0736
+
+Key frame:201, cloud size:230288
+[Corner] corner size:65  descriptor size:3116
+[Loop Sucess] 201--67, candidate id:6, icp:0.732595
+[Loop Info] rough size:89, match size:15, rough triangle dis:0.00652988, fine triangle dis:0.00432047, rough binary similarity:0.613423, fine binary similarity:0.718312
+[Time] build_descriptor:47.6934, candidate search:13.1368, fine loop detect:9.39592, add descriptor:3.36131, average:44.2197
+
+Key frame:202, cloud size:233712
+[Corner] corner size:64  descriptor size:2917
+[Loop Sucess] 202--63, candidate id:20, icp:0.3625
+[Loop Info] rough size:67, match size:6, rough triangle dis:0.00745328, fine triangle dis:0.00541632, rough binary similarity:0.594855, fine binary similarity:0.815737
+[Time] build_descriptor:49.8557, candidate search:12.8346, fine loop detect:9.30941, add descriptor:3.0671, average:44.3717
+
+Key frame:203, cloud size:234983
+[Corner] corner size:59  descriptor size:2692
+[Loop Sucess] 203--64, candidate id:47, icp:0.701258
+[Loop Info] rough size:30, match size:8, rough triangle dis:0.00665177, fine triangle dis:0.00365991, rough binary similarity:0.578154, fine binary similarity:0.791859
+[Time] build_descriptor:49.1141, candidate search:10.2946, fine loop detect:5.92987, add descriptor:2.94315, average:44.4889
+
+Key frame:204, cloud size:235449
+[Corner] corner size:85  descriptor size:4016
+[Loop Sucess] 204--64, candidate id:9, icp:0.62963
+[Loop Info] rough size:75, match size:10, rough triangle dis:0.00669684, fine triangle dis:0.00434316, rough binary similarity:0.593459, fine binary similarity:0.7464
+[Time] build_descriptor:51.9174, candidate search:13.9204, fine loop detect:8.65186, add descriptor:4.14642, average:44.6555
+
+Key frame:205, cloud size:236563
+[Corner] corner size:84  descriptor size:3988
+[Loop Sucess] 205--59, candidate id:7, icp:0.46087
+[Loop Info] rough size:64, match size:4, rough triangle dis:0.00701604, fine triangle dis:0.00320883, rough binary similarity:0.582148, fine binary similarity:0.75377
+[Time] build_descriptor:49.3362, candidate search:14.2197, fine loop detect:7.85273, add descriptor:4.26136, average:44.806
+
+Key frame:206, cloud size:237220
+[Corner] corner size:91  descriptor size:4555
+[Loop Sucess] 206--62, candidate id:2, icp:0.226073
+[Loop Info] rough size:95, match size:4, rough triangle dis:0.00673409, fine triangle dis:0.00418698, rough binary similarity:0.586137, fine binary similarity:0.544146
+[Time] build_descriptor:53.7561, candidate search:15.351, fine loop detect:8.88632, add descriptor:4.66702, average:44.9889
+
+Key frame:207, cloud size:235967
+[Corner] corner size:82  descriptor size:3911
+[Loop Sucess] 207--63, candidate id:2, icp:0.263158
+[Loop Info] rough size:60, match size:12, rough triangle dis:0.00661708, fine triangle dis:0.00566393, rough binary similarity:0.594526, fine binary similarity:0.720356
+[Time] build_descriptor:52.3923, candidate search:11.9238, fine loop detect:5.76614, add descriptor:4.25866, average:45.13
+
+Key frame:208, cloud size:237137
+[Corner] corner size:74  descriptor size:3471
+[Loop Sucess] 208--63, candidate id:15, icp:0.598673
+[Loop Info] rough size:61, match size:6, rough triangle dis:0.00683481, fine triangle dis:0.00572853, rough binary similarity:0.600539, fine binary similarity:0.782302
+[Time] build_descriptor:51.63, candidate search:12.8645, fine loop detect:7.80029, add descriptor:3.59735, average:45.2772
+
+Key frame:209, cloud size:235822
+[Corner] corner size:75  descriptor size:3463
+[Loop Sucess] 209--87, candidate id:1, icp:0.640323
+[Loop Info] rough size:77, match size:7, rough triangle dis:0.00701113, fine triangle dis:0.00416274, rough binary similarity:0.609445, fine binary similarity:0.799499
+[Time] build_descriptor:51.2999, candidate search:13.0167, fine loop detect:9.40296, add descriptor:3.98384, average:45.4316
+
+Key frame:210, cloud size:230565
+[Corner] corner size:59  descriptor size:2763
+[Loop Sucess] 210--45, candidate id:34, icp:0.102142
+[Loop Info] rough size:38, match size:5, rough triangle dis:0.0066822, fine triangle dis:0.00678306, rough binary similarity:0.592017, fine binary similarity:0.604394
+[Time] build_descriptor:50.2807, candidate search:11.5865, fine loop detect:7.24231, add descriptor:3.31113, average:45.5595
+
+Key frame:211, cloud size:222914
+[Corner] corner size:57  descriptor size:2619
+[Loop Sucess] 211--65, candidate id:20, icp:0.18569
+[Loop Info] rough size:50, match size:5, rough triangle dis:0.00684139, fine triangle dis:0.00665931, rough binary similarity:0.604471, fine binary similarity:0.630044
+[Time] build_descriptor:48.2475, candidate search:11.5222, fine loop detect:7.12235, add descriptor:2.83375, average:45.6735
+
+Key frame:212, cloud size:218747
+[Corner] corner size:54  descriptor size:2435
+[Loop Sucess] 212--87, candidate id:8, icp:0.666667
+[Loop Info] rough size:66, match size:8, rough triangle dis:0.00728968, fine triangle dis:0.00594183, rough binary similarity:0.627259, fine binary similarity:0.809059
+[Time] build_descriptor:60.0271, candidate search:10.9904, fine loop detect:9.33177, add descriptor:2.65753, average:45.8488
+
+Key frame:213, cloud size:212781
+[Corner] corner size:57  descriptor size:2638
+[Loop Sucess] 213--87, candidate id:12, icp:0.438163
+[Loop Info] rough size:62, match size:4, rough triangle dis:0.0065068, fine triangle dis:0.00469073, rough binary similarity:0.617496, fine binary similarity:0.607036
+[Time] build_descriptor:45.9122, candidate search:11.3302, fine loop detect:9.62046, add descriptor:2.78342, average:45.96
+
+Key frame:214, cloud size:203614
+[Corner] corner size:40  descriptor size:1776
+[Loop Sucess] 214--91, candidate id:22, icp:0.404453
+[Loop Info] rough size:26, match size:7, rough triangle dis:0.00635594, fine triangle dis:0.00481409, rough binary similarity:0.592893, fine binary similarity:0.689306
+[Time] build_descriptor:44.2435, candidate search:6.64261, fine loop detect:5.56022, add descriptor:2.16525, average:46.0188
+
+Key frame:215, cloud size:194216
+[Corner] corner size:47  descriptor size:2123
+[Loop Sucess] 215--87, candidate id:8, icp:0.338262
+[Loop Info] rough size:69, match size:5, rough triangle dis:0.0063002, fine triangle dis:0.00353177, rough binary similarity:0.617887, fine binary similarity:0.763464
+[Time] build_descriptor:43.1516, candidate search:11.1288, fine loop detect:6.66573, add descriptor:2.31308, average:46.0986
+
+Key frame:216, cloud size:183070
+[Corner] corner size:48  descriptor size:2156
+[Loop Sucess] 216--76, candidate id:2, icp:0.0155945
+[Loop Info] rough size:90, match size:4, rough triangle dis:0.00693384, fine triangle dis:0.00655627, rough binary similarity:0.63759, fine binary similarity:0.661905
+[Time] build_descriptor:40.9388, candidate search:12.0316, fine loop detect:7.65955, add descriptor:2.37871, average:46.1766
+
+Key frame:217, cloud size:170492
+[Corner] corner size:46  descriptor size:2110
+[Loop Sucess] 217--87, candidate id:5, icp:0.515593
+[Loop Info] rough size:74, match size:8, rough triangle dis:0.0064622, fine triangle dis:0.00537638, rough binary similarity:0.622414, fine binary similarity:0.591045
+[Time] build_descriptor:39.228, candidate search:11.1961, fine loop detect:6.69566, add descriptor:2.44569, average:46.238
+
+Key frame:218, cloud size:159740
+[Corner] corner size:37  descriptor size:1666
+[Loop Sucess] 218--63, candidate id:10, icp:0.115646
+[Loop Info] rough size:58, match size:11, rough triangle dis:0.00662138, fine triangle dis:0.00455937, rough binary similarity:0.631039, fine binary similarity:0.752113
+[Time] build_descriptor:39.7029, candidate search:14.4289, fine loop detect:12.9075, add descriptor:2.25039, average:46.3432
+
+Key frame:219, cloud size:145950
+[Corner] corner size:41  descriptor size:1818
+[Loop Fail] 219, icp:0
+[Time] build_descriptor:34.0588, candidate search:8.003, fine loop detect:3.79264, add descriptor:2.01487, average:46.3502
+
+Key frame:220, cloud size:125088
+[Corner] corner size:43  descriptor size:2009
+[Loop Fail] 220, icp:0
+[Time] build_descriptor:30.8507, candidate search:7.97597, fine loop detect:3.94273, add descriptor:2.18643, average:46.3439
+
+Key frame:221, cloud size:82600
+[Corner] corner size:32  descriptor size:1255
+[Loop Fail] 221, icp:0
+[Time] build_descriptor:23.4256, candidate search:5.42197, fine loop detect:1.95434, add descriptor:1.6835, average:46.2814
+
+Key frame:222, cloud size:45698
+[Corner] corner size:31  descriptor size:1345
+[Loop Fail] 222, icp:0
+[Time] build_descriptor:16.0154, candidate search:8.16795, fine loop detect:4.1761, add descriptor:1.51184, average:46.2079
+
+Key frame:223, cloud size:48548
+[Corner] corner size:26  descriptor size:1039
+[Loop Sucess] 223--85, candidate id:0, icp:0.0789474
+[Loop Info] rough size:49, match size:4, rough triangle dis:0.00635325, fine triangle dis:0.00786389, rough binary similarity:0.647685, fine binary similarity:0.617647
+[Time] build_descriptor:15.003, candidate search:7.16543, fine loop detect:3.43224, add descriptor:1.23686, average:46.1214
+
+Key frame:224, cloud size:65144
+[Corner] corner size:37  descriptor size:1573
+[Loop Fail] 224, icp:0
+[Time] build_descriptor:19.9222, candidate search:4.79986, fine loop detect:0.813984, add descriptor:2.80783, average:46.0424
+
+Key frame:225, cloud size:67953
+[Corner] corner size:50  descriptor size:2415
+[Loop Fail] 225, icp:0
+[Time] build_descriptor:27.8224, candidate search:8.02319, fine loop detect:1.43338, add descriptor:2.60572, average:46.0151
+
+Key frame:226, cloud size:67152
+[Corner] corner size:44  descriptor size:1958
+[Loop Fail] 226, icp:0
+[Time] build_descriptor:19.6159, candidate search:5.81074, fine loop detect:1.2089, add descriptor:2.17966, average:45.9394
+
+Key frame:227, cloud size:68480
+[Corner] corner size:51  descriptor size:2310
+[Loop Fail] 227, icp:0
+[Time] build_descriptor:20.4258, candidate search:10.1125, fine loop detect:5.12827, add descriptor:2.31627, average:45.9045
+
+Key frame:228, cloud size:69604
+[Corner] corner size:58  descriptor size:2908
+[Loop Fail] 228, icp:0
+[Time] build_descriptor:22.485, candidate search:13.1983, fine loop detect:5.82537, add descriptor:2.95689, average:45.8982
+
+Key frame:229, cloud size:70285
+[Corner] corner size:53  descriptor size:2508
+[Loop Fail] 229, icp:0
+[Time] build_descriptor:20.7669, candidate search:7.56548, fine loop detect:2.07548, add descriptor:2.58271, average:45.842
+
+Key frame:230, cloud size:56714
+[Corner] corner size:30  descriptor size:1351
+[Loop Fail] 230, icp:0
+[Time] build_descriptor:15.5468, candidate search:8.07854, fine loop detect:3.09352, add descriptor:1.35228, average:45.7651
+
+Key frame:231, cloud size:58313
+[Corner] corner size:44  descriptor size:2160
+[Loop Fail] 231, icp:0
+[Time] build_descriptor:18.3821, candidate search:8.82944, fine loop detect:6.93099, add descriptor:2.59655, average:45.7262
+
+Key frame:232, cloud size:75262
+[Corner] corner size:41  descriptor size:1890
+[Loop Fail] 232, icp:0
+[Time] build_descriptor:18.7914, candidate search:5.91453, fine loop detect:2.47889, add descriptor:2.09632, average:45.6556
+
+Key frame:233, cloud size:90777
+[Corner] corner size:45  descriptor size:2138
+[Loop Fail] 233, icp:0
+[Time] build_descriptor:22.6534, candidate search:8.53901, fine loop detect:3.78265, add descriptor:2.11063, average:45.619
+
+Key frame:234, cloud size:107037
+[Corner] corner size:46  descriptor size:2155
+[Loop Fail] 234, icp:0
+[Time] build_descriptor:23.166, candidate search:8.18101, fine loop detect:2.29549, add descriptor:2.30339, average:45.5778
+
+Key frame:235, cloud size:130102
+[Corner] corner size:59  descriptor size:2780
+[Loop Fail] 235, icp:0
+[Time] build_descriptor:28.7442, candidate search:12.3337, fine loop detect:6.41632, add descriptor:2.80508, average:45.5979
+
+Key frame:236, cloud size:146951
+[Corner] corner size:60  descriptor size:3000
+[Loop Fail] 236, icp:0
+[Time] build_descriptor:31.1336, candidate search:12.2186, fine loop detect:6.09309, add descriptor:3.32732, average:45.6281
+
+Key frame:237, cloud size:159644
+[Corner] corner size:67  descriptor size:3512
+[Loop Fail] 237, icp:0
+[Time] build_descriptor:40.6611, candidate search:15.2944, fine loop detect:6.49772, add descriptor:3.35101, average:45.7129
+
+Key frame:238, cloud size:170634
+[Corner] corner size:66  descriptor size:3348
+[Loop Fail] 238, icp:0
+[Time] build_descriptor:37.5498, candidate search:14.5037, fine loop detect:6.6215, add descriptor:3.42155, average:45.7815
+
+Key frame:239, cloud size:177225
+[Corner] corner size:45  descriptor size:1980
+[Loop Sucess] 239--94, candidate id:36, icp:0.144068
+[Loop Info] rough size:33, match size:6, rough triangle dis:0.00718311, fine triangle dis:0.00480823, rough binary similarity:0.602114, fine binary similarity:0.60582
+[Time] build_descriptor:36.1332, candidate search:9.88432, fine loop detect:5.25191, add descriptor:2.18937, average:45.8134
+
+Key frame:240, cloud size:190347
+[Corner] corner size:41  descriptor size:1824
+[Loop Sucess] 240--98, candidate id:21, icp:0.146881
+[Loop Info] rough size:37, match size:4, rough triangle dis:0.00670941, fine triangle dis:0.00285139, rough binary similarity:0.606307, fine binary similarity:0.614153
+[Time] build_descriptor:39.3703, candidate search:8.59353, fine loop detect:4.95289, add descriptor:1.92459, average:45.8509
+
+Key frame:241, cloud size:197394
+[Corner] corner size:38  descriptor size:1735
+[Loop Fail] 241, icp:0
+[Time] build_descriptor:40.313, candidate search:7.19597, fine loop detect:3.68763, add descriptor:1.78714, average:45.8804
+
+Key frame:242, cloud size:206480
+[Corner] corner size:52  descriptor size:2449
+[Loop Sucess] 242--63, candidate id:22, icp:0.0833333
+[Loop Info] rough size:49, match size:4, rough triangle dis:0.00681948, fine triangle dis:0.00552515, rough binary similarity:0.58643, fine binary similarity:0.58379
+[Time] build_descriptor:41.5315, candidate search:11.6113, fine loop detect:6.49387, add descriptor:2.81624, average:45.9486
+
+Key frame:243, cloud size:214961
+[Corner] corner size:55  descriptor size:2527
+[Loop Sucess] 243--101, candidate id:3, icp:0.025878
+[Loop Info] rough size:63, match size:4, rough triangle dis:0.00735998, fine triangle dis:0.00667749, rough binary similarity:0.595855, fine binary similarity:0.559608
+[Time] build_descriptor:43.8926, candidate search:10.0611, fine loop detect:5.64356, add descriptor:2.7204, average:46.0157
+
+Key frame:244, cloud size:221487
+[Corner] corner size:60  descriptor size:2789
+[Loop Sucess] 244--56, candidate id:36, icp:0.20794
+[Loop Info] rough size:40, match size:4, rough triangle dis:0.00744867, fine triangle dis:0.00723527, rough binary similarity:0.580418, fine binary similarity:0.5769
+[Time] build_descriptor:51.3599, candidate search:11.1545, fine loop detect:6.57431, add descriptor:2.95455, average:46.1219
+
+Key frame:245, cloud size:225810
+[Corner] corner size:59  descriptor size:2766
+[Loop Sucess] 245--57, candidate id:29, icp:0.198131
+[Loop Info] rough size:36, match size:4, rough triangle dis:0.00654808, fine triangle dis:0.00250951, rough binary similarity:0.566123, fine binary similarity:0.685836
+[Time] build_descriptor:46.5956, candidate search:10.3978, fine loop detect:5.37542, add descriptor:2.98404, average:46.2001
+
+Key frame:246, cloud size:232973
+[Corner] corner size:77  descriptor size:3682
+[Loop Sucess] 246--55, candidate id:9, icp:0.222034
+[Loop Info] rough size:52, match size:6, rough triangle dis:0.00719546, fine triangle dis:0.00551698, rough binary similarity:0.589135, fine binary similarity:0.762613
+[Time] build_descriptor:51.855, candidate search:12.3293, fine loop detect:6.59603, add descriptor:3.85459, average:46.3152
+
+Key frame:247, cloud size:232916
+[Corner] corner size:84  descriptor size:4070
+[Loop Sucess] 247--56, candidate id:4, icp:0.169903
+[Loop Info] rough size:64, match size:5, rough triangle dis:0.00684122, fine triangle dis:0.00580816, rough binary similarity:0.591078, fine binary similarity:0.601865
+[Time] build_descriptor:52.3535, candidate search:12.3403, fine loop detect:5.71686, add descriptor:4.22956, average:46.4294
+
+Key frame:248, cloud size:236353
+[Corner] corner size:76  descriptor size:3686
+[Loop Sucess] 248--55, candidate id:4, icp:0.510673
+[Loop Info] rough size:59, match size:6, rough triangle dis:0.00722532, fine triangle dis:0.00464028, rough binary similarity:0.589165, fine binary similarity:0.738797
+[Time] build_descriptor:52.0346, candidate search:11.7316, fine loop detect:6.09348, add descriptor:3.86769, average:46.539
+
+Key frame:249, cloud size:236637
+[Corner] corner size:112  descriptor size:5709
+[Loop Sucess] 249--55, candidate id:1, icp:0.655518
+[Loop Info] rough size:97, match size:8, rough triangle dis:0.00697867, fine triangle dis:0.00586864, rough binary similarity:0.574097, fine binary similarity:0.816827
+[Time] build_descriptor:49.2953, candidate search:17.3846, fine loop detect:8.13788, add descriptor:5.87396, average:46.6756
+
+Key frame:250, cloud size:236110
+[Corner] corner size:62  descriptor size:2962
+[Loop Sucess] 250--56, candidate id:2, icp:0.694494
+[Loop Info] rough size:48, match size:4, rough triangle dis:0.00686832, fine triangle dis:0.0046121, rough binary similarity:0.566408, fine binary similarity:0.661922
+[Time] build_descriptor:53.8016, candidate search:10.6806, fine loop detect:11.0501, add descriptor:3.65334, average:46.8052
+
+Key frame:251, cloud size:236004
+[Corner] corner size:71  descriptor size:3403
+[Loop Fail] 251, icp:0
+[Time] build_descriptor:52.8444, candidate search:14.2615, fine loop detect:6.33037, add descriptor:3.79034, average:46.9259
+
+Key frame:252, cloud size:234497
+[Corner] corner size:59  descriptor size:2720
+[Loop Sucess] 252--45, candidate id:0, icp:0.0524476
+[Loop Info] rough size:41, match size:4, rough triangle dis:0.00734755, fine triangle dis:0.00453723, rough binary similarity:0.589856, fine binary similarity:0.579973
+[Time] build_descriptor:54.9761, candidate search:10.0904, fine loop detect:4.60561, add descriptor:3.73826, average:47.0306
+
+Key frame:253, cloud size:230431
+[Corner] corner size:72  descriptor size:3333
+[Loop Sucess] 253--51, candidate id:8, icp:0.654741
+[Loop Info] rough size:49, match size:4, rough triangle dis:0.00712823, fine triangle dis:0.00451005, rough binary similarity:0.570921, fine binary similarity:0.710212
+[Time] build_descriptor:54.6783, candidate search:14.1007, fine loop detect:6.7444, add descriptor:3.67925, average:47.1572
+
+Key frame:254, cloud size:233330
+[Corner] corner size:121  descriptor size:6269
+[Loop Fail] 254, icp:0
+[Time] build_descriptor:56.0032, candidate search:20.5881, fine loop detect:8.27221, add descriptor:6.69582, average:47.3314
+
+Key frame:255, cloud size:234644
+[Corner] corner size:82  descriptor size:3921
+[Loop Sucess] 255--48, candidate id:35, icp:0.392226
+[Loop Info] rough size:44, match size:15, rough triangle dis:0.00652928, fine triangle dis:0.00612045, rough binary similarity:0.565296, fine binary similarity:0.655807
+[Time] build_descriptor:49.3138, candidate search:14.9068, fine loop detect:7.49613, add descriptor:4.47459, average:47.4441
+
+Key frame:256, cloud size:234637
+[Corner] corner size:98  descriptor size:4969
+[Loop Sucess] 256--49, candidate id:43, icp:0.186567
+[Loop Info] rough size:47, match size:4, rough triangle dis:0.00667268, fine triangle dis:0.00756054, rough binary similarity:0.572891, fine binary similarity:0.601809
+[Time] build_descriptor:56.153, candidate search:18.4697, fine loop detect:8.92076, add descriptor:5.69636, average:47.6067
+
+Key frame:257, cloud size:233455
+[Corner] corner size:79  descriptor size:3771
+[Loop Sucess] 257--49, candidate id:21, icp:0.268248
+[Loop Info] rough size:44, match size:7, rough triangle dis:0.00680187, fine triangle dis:0.00464182, rough binary similarity:0.582525, fine binary similarity:0.674368
+[Time] build_descriptor:60.4999, candidate search:13.9961, fine loop detect:7.89065, add descriptor:4.9509, average:47.7607
+
+Key frame:258, cloud size:233610
+[Corner] corner size:110  descriptor size:5664
+[Loop Sucess] 258--50, candidate id:26, icp:0.0212389
+[Loop Info] rough size:56, match size:4, rough triangle dis:0.00688889, fine triangle dis:0.00361401, rough binary similarity:0.579128, fine binary similarity:0.731515
+[Time] build_descriptor:58.9474, candidate search:19.5504, fine loop detect:8.4745, add descriptor:6.07016, average:47.9356
+
+Key frame:259, cloud size:236453
+[Corner] corner size:114  descriptor size:6103
+[Loop Sucess] 259--50, candidate id:22, icp:0.555351
+[Loop Info] rough size:65, match size:7, rough triangle dis:0.00712871, fine triangle dis:0.00551453, rough binary similarity:0.558396, fine binary similarity:0.640232
+[Time] build_descriptor:53.8331, candidate search:21.5421, fine loop detect:9.25289, add descriptor:6.70005, average:48.1024
+
+Key frame:260, cloud size:234742
+[Corner] corner size:122  descriptor size:6467
+[Loop Fail] 260, icp:0
+[Time] build_descriptor:55.4954, candidate search:21.6484, fine loop detect:8.56262, add descriptor:7.2388, average:48.2743
+
+Key frame:261, cloud size:230841
+[Corner] corner size:100  descriptor size:5101
+[Loop Fail] 261, icp:0
+[Time] build_descriptor:54.8456, candidate search:20.2211, fine loop detect:6.86982, add descriptor:5.30219, average:48.423
+
+Key frame:262, cloud size:224884
+[Corner] corner size:54  descriptor size:2456
+[Loop Fail] 262, icp:0
+[Time] build_descriptor:54.0637, candidate search:10.1686, fine loop detect:4.06016, add descriptor:3.05025, average:48.5101
+
+Key frame:263, cloud size:215826
+[Corner] corner size:53  descriptor size:2417
+[Loop Sucess] 263--104, candidate id:12, icp:0.0989583
+[Loop Info] rough size:60, match size:5, rough triangle dis:0.00703808, fine triangle dis:0.00375073, rough binary similarity:0.602894, fine binary similarity:0.636835
+[Time] build_descriptor:62.5689, candidate search:14.9363, fine loop detect:6.66644, add descriptor:2.8321, average:48.6559
+
+Key frame:264, cloud size:209648
+[Corner] corner size:102  descriptor size:4891
+[Loop Fail] 264, icp:0
+[Time] build_descriptor:50.8747, candidate search:19.3531, fine loop detect:6.8813, add descriptor:5.71502, average:48.7849
+
+Key frame:265, cloud size:200974
+[Corner] corner size:86  descriptor size:4255
+[Loop Sucess] 265--101, candidate id:27, icp:0.123909
+[Loop Info] rough size:89, match size:8, rough triangle dis:0.00746237, fine triangle dis:0.0050358, rough binary similarity:0.583766, fine binary similarity:0.688673
+[Time] build_descriptor:49.9518, candidate search:24.1145, fine loop detect:12.8239, add descriptor:4.91002, average:48.9466
+
+Key frame:266, cloud size:192302
+[Corner] corner size:43  descriptor size:1990
+[Loop Fail] 266, icp:0
+[Time] build_descriptor:45.0078, candidate search:11.763, fine loop detect:12.7421, add descriptor:2.45329, average:49.0328
+
+Key frame:267, cloud size:181666
+[Corner] corner size:85  descriptor size:4248
+[Loop Fail] 267, icp:0
+[Time] build_descriptor:46.1352, candidate search:16.0303, fine loop detect:6.28025, add descriptor:4.41599, average:49.1217
+
+Key frame:268, cloud size:171743
+[Corner] corner size:45  descriptor size:2081
+[Loop Fail] 268, icp:0
+[Time] build_descriptor:41.0538, candidate search:11.9751, fine loop detect:7.03381, add descriptor:2.43898, average:49.1715
+
+Key frame:269, cloud size:159632
+[Corner] corner size:64  descriptor size:3226
+[Loop Fail] 269, icp:0
+[Time] build_descriptor:45.4427, candidate search:25.0748, fine loop detect:12.4949, add descriptor:3.6928, average:49.3105
+
+Key frame:270, cloud size:144832
+[Corner] corner size:54  descriptor size:2635
+[Loop Fail] 270, icp:0
+[Time] build_descriptor:30.4877, candidate search:9.5622, fine loop detect:2.98468, add descriptor:3.39096, average:49.2998
+
+Key frame:271, cloud size:93944
+[Corner] corner size:33  descriptor size:1439
+[Loop Fail] 271, icp:0
+[Time] build_descriptor:26.9968, candidate search:7.59332, fine loop detect:3.10072, add descriptor:1.9783, average:49.2644
+
+Key frame:272, cloud size:56363
+[Corner] corner size:35  descriptor size:1718
+[Loop Sucess] 272--152, candidate id:3, icp:0.377451
+[Loop Info] rough size:40, match size:5, rough triangle dis:0.00627764, fine triangle dis:0.00704279, rough binary similarity:0.578375, fine binary similarity:0.593728
+[Time] build_descriptor:22.8908, candidate search:8.00399, fine loop detect:3.45809, add descriptor:2.27947, average:49.2181
+
+Key frame:273, cloud size:63152
+[Corner] corner size:42  descriptor size:2148
+[Loop Fail] 273, icp:0
+[Time] build_descriptor:21.8915, candidate search:8.1806, fine loop detect:2.91552, add descriptor:2.72219, average:49.1688
+
+Key frame:274, cloud size:81912
+[Corner] corner size:52  descriptor size:2642
+[Loop Fail] 274, icp:0
+[Time] build_descriptor:23.9344, candidate search:10.7934, fine loop detect:12.5257, add descriptor:2.95756, average:49.1726
+
+Key frame:275, cloud size:80360
+[Corner] corner size:61  descriptor size:3030
+[Loop Fail] 275, icp:0
+[Time] build_descriptor:30.299, candidate search:21.4108, fine loop detect:8.0108, add descriptor:3.38144, average:49.2231
+
+Key frame:276, cloud size:78985
+[Corner] corner size:45  descriptor size:2170
+[Loop Sucess] 276--113, candidate id:1, icp:0.0159744
+[Loop Info] rough size:59, match size:4, rough triangle dis:0.00708583, fine triangle dis:0.00493049, rough binary similarity:0.5773, fine binary similarity:0.607576
+[Time] build_descriptor:23.7656, candidate search:10.9205, fine loop detect:4.9417, add descriptor:2.43638, average:49.1973
+
+Key frame:277, cloud size:77724
+[Corner] corner size:58  descriptor size:2862
+[Loop Fail] 277, icp:0
+[Time] build_descriptor:24.0909, candidate search:12.1976, fine loop detect:5.3621, add descriptor:3.13746, average:49.1814
+
+Key frame:278, cloud size:80667
+[Corner] corner size:48  descriptor size:2366
+[Loop Fail] 278, icp:0
+[Time] build_descriptor:24.6954, candidate search:9.84655, fine loop detect:4.46233, add descriptor:2.5521, average:49.1541
+
+Key frame:279, cloud size:77584
+[Corner] corner size:50  descriptor size:2438
+[Loop Fail] 279, icp:0
+[Time] build_descriptor:23.7125, candidate search:9.81703, fine loop detect:2.92382, add descriptor:2.79115, average:49.1187
+
+Key frame:280, cloud size:59625
+[Corner] corner size:32  descriptor size:1406
+[Loop Fail] 280, icp:0
+[Time] build_descriptor:19.0886, candidate search:5.92918, fine loop detect:1.43256, add descriptor:2.08042, average:49.0454
+
+Key frame:281, cloud size:61077
+[Corner] corner size:32  descriptor size:1394
+[Loop Fail] 281, icp:0
+[Time] build_descriptor:17.1592, candidate search:7.72627, fine loop detect:1.37827, add descriptor:2.58763, average:48.9738
+
+Key frame:282, cloud size:77441
+[Corner] corner size:47  descriptor size:2256
+[Loop Sucess] 282--158, candidate id:1, icp:0.0280702
+[Loop Info] rough size:61, match size:5, rough triangle dis:0.00746802, fine triangle dis:0.00889225, rough binary similarity:0.581468, fine binary similarity:0.675672
+[Time] build_descriptor:27.5368, candidate search:12.3186, fine loop detect:4.85899, add descriptor:2.60215, average:48.9679
+
+Key frame:283, cloud size:90518
+[Corner] corner size:41  descriptor size:1966
+[Loop Fail] 283, icp:0
+[Time] build_descriptor:18.6927, candidate search:7.4424, fine loop detect:2.43148, add descriptor:2.60018, average:48.9053
+
+Key frame:284, cloud size:108036
+[Corner] corner size:51  descriptor size:2390
+[Loop Fail] 284, icp:0
+[Time] build_descriptor:21.0802, candidate search:9.032, fine loop detect:2.4605, add descriptor:2.82302, average:48.8579
+
+Key frame:285, cloud size:131268
+[Corner] corner size:44  descriptor size:2055
+[Loop Fail] 285, icp:0
+[Time] build_descriptor:23.7521, candidate search:8.9293, fine loop detect:1.73789, add descriptor:2.10727, average:48.8147
+
+Key frame:286, cloud size:148920
+[Corner] corner size:51  descriptor size:2423
+[Loop Fail] 286, icp:0
+[Time] build_descriptor:27.9244, candidate search:9.4824, fine loop detect:3.08066, add descriptor:2.64566, average:48.7949
+
+Key frame:287, cloud size:161453
+[Corner] corner size:72  descriptor size:3463
+[Loop Fail] 287, icp:0
+[Time] build_descriptor:35.3059, candidate search:16.6574, fine loop detect:6.59287, add descriptor:3.77424, average:48.8419
+
+Key frame:288, cloud size:173748
+[Corner] corner size:84  descriptor size:4170
+[Loop Fail] 288, icp:0
+[Time] build_descriptor:57.127, candidate search:19.9398, fine loop detect:8.81189, add descriptor:4.36047, average:48.9852
+
+Key frame:289, cloud size:179316
+[Corner] corner size:56  descriptor size:2758
+[Loop Sucess] 289--112, candidate id:16, icp:0.392523
+[Loop Info] rough size:62, match size:4, rough triangle dis:0.00664414, fine triangle dis:0.00535094, rough binary similarity:0.597206, fine binary similarity:0.663799
+[Time] build_descriptor:38.8315, candidate search:14.8326, fine loop detect:7.86278, add descriptor:3.25278, average:49.0397
+
+Key frame:290, cloud size:193372
+[Corner] corner size:75  descriptor size:3745
+[Loop Fail] 290, icp:0
+[Time] build_descriptor:42.4426, candidate search:18.0846, fine loop detect:8.66688, add descriptor:4.15304, average:49.1232
+
+Key frame:291, cloud size:201621
+[Corner] corner size:93  descriptor size:4636
+[Loop Fail] 291, icp:0
+[Time] build_descriptor:45.7695, candidate search:21.3334, fine loop detect:9.03747, add descriptor:4.67982, average:49.2317
+
+Key frame:292, cloud size:208295
+[Corner] corner size:80  descriptor size:3958
+[Loop Fail] 292, icp:0
+[Time] build_descriptor:46.3296, candidate search:17.3678, fine loop detect:7.15263, add descriptor:4.62706, average:49.3213
+
+Key frame:293, cloud size:214694
+[Corner] corner size:93  descriptor size:4747
+[Loop Sucess] 293--109, candidate id:30, icp:0.469453
+[Loop Info] rough size:62, match size:4, rough triangle dis:0.00711581, fine triangle dis:0.0085215, rough binary similarity:0.574003, fine binary similarity:0.580685
+[Time] build_descriptor:45.7631, candidate search:19.5237, fine loop detect:7.75992, add descriptor:4.95006, average:49.4188
+
+Key frame:294, cloud size:220544
+[Corner] corner size:99  descriptor size:4942
+[Loop Fail] 294, icp:0
+[Time] build_descriptor:48.0008, candidate search:17.4469, fine loop detect:6.11343, add descriptor:5.04362, average:49.511
+
+Key frame:295, cloud size:226330
+[Corner] corner size:98  descriptor size:5025
+[Loop Sucess] 295--41, candidate id:20, icp:0.224684
+[Loop Info] rough size:68, match size:5, rough triangle dis:0.0067037, fine triangle dis:0.00645898, rough binary similarity:0.564409, fine binary similarity:0.775668
+[Time] build_descriptor:54.6267, candidate search:19.4189, fine loop detect:8.20612, add descriptor:5.45021, average:49.64
+
+Key frame:296, cloud size:232788
+[Corner] corner size:81  descriptor size:3789
+[Loop Fail] 296, icp:0
+[Time] build_descriptor:55.7969, candidate search:15.3547, fine loop detect:6.54038, add descriptor:4.10653, average:49.7483
+
+Key frame:297, cloud size:235275
+[Corner] corner size:126  descriptor size:6919
+[Loop Fail] 297, icp:0
+[Time] build_descriptor:55.1391, candidate search:21.8168, fine loop detect:7.34589, add descriptor:7.22255, average:49.8885
+
+Key frame:298, cloud size:235344
+[Corner] corner size:84  descriptor size:4146
+[Loop Sucess] 298--106, candidate id:40, icp:0.0872894
+[Loop Info] rough size:34, match size:4, rough triangle dis:0.00655989, fine triangle dis:0.00274363, rough binary similarity:0.564738, fine binary similarity:0.62024
+[Time] build_descriptor:55.4374, candidate search:14.6034, fine loop detect:6.4345, add descriptor:4.82797, average:49.9936
+
+Key frame:299, cloud size:235750
+[Corner] corner size:87  descriptor size:4321
+[Loop Sucess] 299--45, candidate id:29, icp:0.308057
+[Loop Info] rough size:41, match size:9, rough triangle dis:0.00742443, fine triangle dis:0.006407, rough binary similarity:0.562919, fine binary similarity:0.699475
+[Time] build_descriptor:57.6801, candidate search:18.8107, fine loop detect:8.50683, add descriptor:5.59381, average:50.1289
+
+Key frame:300, cloud size:235168
+[Corner] corner size:123  descriptor size:6578
+[Loop Sucess] 300--39, candidate id:0, icp:0.600309
+[Loop Info] rough size:184, match size:8, rough triangle dis:0.00713463, fine triangle dis:0.00490034, rough binary similarity:0.569517, fine binary similarity:0.650439
+[Time] build_descriptor:58.3352, candidate search:26.9558, fine loop detect:11.0954, add descriptor:6.37811, average:50.3038
+
+Key frame:301, cloud size:234769
+[Corner] corner size:123  descriptor size:6539
+[Loop Fail] 301, icp:0
+[Time] build_descriptor:70.9049, candidate search:23.5296, fine loop detect:8.31845, add descriptor:6.76913, average:50.4998
+
+Key frame:302, cloud size:234265
+[Corner] corner size:78  descriptor size:3870
+[Loop Sucess] 302--34, candidate id:45, icp:0.498462
+[Loop Info] rough size:39, match size:5, rough triangle dis:0.00629725, fine triangle dis:0.00387911, rough binary similarity:0.571921, fine binary similarity:0.710434
+[Time] build_descriptor:55.76, candidate search:15.7517, fine loop detect:7.90273, add descriptor:4.42043, average:50.6099
+
+Key frame:303, cloud size:234768
+[Corner] corner size:66  descriptor size:3030
+[Loop Sucess] 303--38, candidate id:19, icp:0.303571
+[Loop Info] rough size:28, match size:7, rough triangle dis:0.00702135, fine triangle dis:0.00600492, rough binary similarity:0.564884, fine binary similarity:0.665943
+[Time] build_descriptor:53.6049, candidate search:11.6701, fine loop detect:4.79468, add descriptor:3.52545, average:50.6855
+
+Key frame:304, cloud size:235602
+[Corner] corner size:131  descriptor size:7015
+[Loop Sucess] 304--35, candidate id:0, icp:0.48503
+[Loop Info] rough size:99, match size:11, rough triangle dis:0.00729343, fine triangle dis:0.00453615, rough binary similarity:0.562114, fine binary similarity:0.770976
+[Time] build_descriptor:54.863, candidate search:23.8502, fine loop detect:9.74331, add descriptor:7.10123, average:50.8326
+
+Key frame:305, cloud size:234420
+[Corner] corner size:97  descriptor size:4727
+[Loop Sucess] 305--35, candidate id:31, icp:0.462069
+[Loop Info] rough size:35, match size:4, rough triangle dis:0.00691259, fine triangle dis:0.00337498, rough binary similarity:0.553797, fine binary similarity:0.683442
+[Time] build_descriptor:46.9984, candidate search:16.678, fine loop detect:6.22668, add descriptor:5.16218, average:50.9118
+
+Key frame:306, cloud size:233828
+[Corner] corner size:141  descriptor size:7622
+[Loop Sucess] 306--35, candidate id:3, icp:0.527919
+[Loop Info] rough size:138, match size:5, rough triangle dis:0.00714643, fine triangle dis:0.00675031, rough binary similarity:0.555512, fine binary similarity:0.689865
+[Time] build_descriptor:53.8429, candidate search:26.2852, fine loop detect:14.1603, add descriptor:7.45841, average:51.0774
+
+Key frame:307, cloud size:235338
+[Corner] corner size:114  descriptor size:5692
+[Loop Sucess] 307--36, candidate id:2, icp:0.44898
+[Loop Info] rough size:70, match size:5, rough triangle dis:0.00720917, fine triangle dis:0.00741107, rough binary similarity:0.548531, fine binary similarity:0.678555
+[Time] build_descriptor:53.1056, candidate search:18.0297, fine loop detect:7.10658, add descriptor:6.36428, average:51.1862
+
+Key frame:308, cloud size:236608
+[Corner] corner size:124  descriptor size:6766
+[Loop Sucess] 308--33, candidate id:0, icp:0.56304
+[Loop Info] rough size:125, match size:14, rough triangle dis:0.0072077, fine triangle dis:0.00643507, rough binary similarity:0.554674, fine binary similarity:0.744288
+[Time] build_descriptor:58.819, candidate search:23.081, fine loop detect:9.60412, add descriptor:7.8532, average:51.3421
+
+Key frame:309, cloud size:236514
+[Corner] corner size:119  descriptor size:6167
+[Loop Sucess] 309--117, candidate id:40, icp:0.0339559
+[Loop Info] rough size:62, match size:4, rough triangle dis:0.00717972, fine triangle dis:0.00500249, rough binary similarity:0.560755, fine binary similarity:0.634615
+[Time] build_descriptor:55.4976, candidate search:23.5838, fine loop detect:8.62034, add descriptor:6.41981, average:51.4801
+
+Key frame:310, cloud size:232938
+[Corner] corner size:123  descriptor size:6324
+[Loop Sucess] 310--11, candidate id:29, icp:0.422559
+[Loop Info] rough size:59, match size:4, rough triangle dis:0.00689595, fine triangle dis:0.00588479, rough binary similarity:0.568141, fine binary similarity:0.800895
+[Time] build_descriptor:54.4115, candidate search:23.5325, fine loop detect:8.6193, add descriptor:6.3731, average:51.6134
+
+Key frame:311, cloud size:229524
+[Corner] corner size:109  descriptor size:5699
+[Loop Sucess] 311--118, candidate id:24, icp:0.585526
+[Loop Info] rough size:56, match size:13, rough triangle dis:0.00689991, fine triangle dis:0.00623589, rough binary similarity:0.563841, fine binary similarity:0.633047
+[Time] build_descriptor:52.2203, candidate search:21.25, fine loop detect:8.79129, add descriptor:5.79007, average:51.7302
+
+Key frame:312, cloud size:222830
+[Corner] corner size:111  descriptor size:5745
+[Loop Sucess] 312--118, candidate id:32, icp:0.534884
+[Loop Info] rough size:57, match size:11, rough triangle dis:0.00717995, fine triangle dis:0.00424048, rough binary similarity:0.569075, fine binary similarity:0.666812
+[Time] build_descriptor:54.5678, candidate search:23.4947, fine loop detect:9.71067, add descriptor:6.45363, average:51.866
+
+Key frame:313, cloud size:212296
+[Corner] corner size:102  descriptor size:5028
+[Loop Sucess] 313--118, candidate id:36, icp:0.60371
+[Loop Info] rough size:51, match size:4, rough triangle dis:0.00718345, fine triangle dis:0.00540832, rough binary similarity:0.557118, fine binary similarity:0.620911
+[Time] build_descriptor:55.3038, candidate search:20.026, fine loop detect:8.98324, add descriptor:5.29869, average:51.9862
+
+Key frame:314, cloud size:206468
+[Corner] corner size:100  descriptor size:5064
+[Loop Sucess] 314--117, candidate id:13, icp:0.603679
+[Loop Info] rough size:66, match size:9, rough triangle dis:0.00732855, fine triangle dis:0.00389468, rough binary similarity:0.565751, fine binary similarity:0.757197
+[Time] build_descriptor:45.9572, candidate search:19.8173, fine loop detect:9.02898, add descriptor:5.19032, average:52.0751
+
+Key frame:315, cloud size:199485
+[Corner] corner size:95  descriptor size:4812
+[Loop Sucess] 315--115, candidate id:32, icp:0.642984
+[Loop Info] rough size:51, match size:10, rough triangle dis:0.00700466, fine triangle dis:0.00594376, rough binary similarity:0.554426, fine binary similarity:0.749086
+[Time] build_descriptor:43.3392, candidate search:18.7881, fine loop detect:9.24059, add descriptor:5.12287, average:52.1524
+
+Key frame:316, cloud size:190455
+[Corner] corner size:87  descriptor size:4414
+[Loop Fail] 316, icp:0
+[Time] build_descriptor:46.0433, candidate search:17.4679, fine loop detect:6.63046, add descriptor:5.16749, average:52.2254
+
+Key frame:317, cloud size:178484
+[Corner] corner size:85  descriptor size:4366
+[Loop Sucess] 317--117, candidate id:4, icp:0.555762
+[Loop Info] rough size:70, match size:6, rough triangle dis:0.00746348, fine triangle dis:0.00320721, rough binary similarity:0.561042, fine binary similarity:0.671359
+[Time] build_descriptor:43.5921, candidate search:17.211, fine loop detect:6.85946, add descriptor:4.64609, average:52.2886
+
+Key frame:318, cloud size:168262
+[Corner] corner size:58  descriptor size:2852
+[Loop Sucess] 318--115, candidate id:37, icp:0.209804
+[Loop Info] rough size:29, match size:8, rough triangle dis:0.0069243, fine triangle dis:0.00570344, rough binary similarity:0.547563, fine binary similarity:0.685534
+[Time] build_descriptor:33.0178, candidate search:11.8478, fine loop detect:4.71392, add descriptor:3.50743, average:52.2911
+
+Key frame:319, cloud size:152887
+[Corner] corner size:51  descriptor size:2417
+[Loop Fail] 319, icp:0
+[Time] build_descriptor:29.1409, candidate search:7.93184, fine loop detect:1.49427, add descriptor:3.34071, average:52.2586
+
+Key frame:320, cloud size:136119
+[Corner] corner size:57  descriptor size:2847
+[Loop Fail] 320, icp:0
+[Time] build_descriptor:40.2302, candidate search:14.8477, fine loop detect:4.68525, add descriptor:3.04083, average:52.2915
+
+Key frame:321, cloud size:93285
+[Corner] corner size:34  descriptor size:1509
+[Loop Fail] 321, icp:0
+[Time] build_descriptor:20.2943, candidate search:5.88665, fine loop detect:0.958483, add descriptor:2.02317, average:52.2196
+
+Key frame:322, cloud size:53587
+[Corner] corner size:36  descriptor size:1526
+[Loop Fail] 322, icp:0
+[Time] build_descriptor:15.7673, candidate search:5.88252, fine loop detect:1.11255, add descriptor:1.65534, average:52.1336
+
+Key frame:323, cloud size:52781
+[Corner] corner size:28  descriptor size:1187
+[Loop Fail] 323, icp:0
+[Time] build_descriptor:16.727, candidate search:5.99852, fine loop detect:2.13974, add descriptor:1.29696, average:52.0534
+
+Key frame:324, cloud size:71705
+[Corner] corner size:26  descriptor size:1092
+[Loop Fail] 324, icp:0
+[Time] build_descriptor:15.0798, candidate search:3.2695, fine loop detect:0.574056, add descriptor:1.45773, average:51.956
+
+Key frame:325, cloud size:70222
+[Corner] corner size:39  descriptor size:1802
+[Loop Fail] 325, icp:0
+[Time] build_descriptor:17.9503, candidate search:6.04331, fine loop detect:1.08759, add descriptor:1.69164, average:51.8787
+
+Key frame:326, cloud size:67113
+[Corner] corner size:31  descriptor size:1226
+[Loop Fail] 326, icp:0
+[Time] build_descriptor:16.7027, candidate search:5.15245, fine loop detect:0.977501, add descriptor:1.1111, average:51.7933
+
+Key frame:327, cloud size:66722
+[Corner] corner size:22  descriptor size:816
+[Loop Fail] 327, icp:0
+[Time] build_descriptor:12.5795, candidate search:3.54082, fine loop detect:0.409608, add descriptor:1.26386, average:51.6896
+
+Key frame:328, cloud size:65192
+[Corner] corner size:37  descriptor size:1678
+[Loop Fail] 328, icp:0
+[Time] build_descriptor:16.1159, candidate search:5.53962, fine loop detect:1.47448, add descriptor:1.87053, average:51.6085
+
+Key frame:329, cloud size:66415
+[Corner] corner size:26  descriptor size:1105
+[Loop Fail] 329, icp:0
+[Time] build_descriptor:14.3591, candidate search:5.2951, fine loop detect:0.798273, add descriptor:1.90979, average:51.5199
+
+Key frame:330, cloud size:52409
+[Corner] corner size:38  descriptor size:1642
+[Loop Fail] 330, icp:0
+[Time] build_descriptor:16.3462, candidate search:7.97942, fine loop detect:1.31001, add descriptor:1.9989, average:51.4477
+
+Key frame:331, cloud size:50373
+[Corner] corner size:42  descriptor size:1864
+[Loop Fail] 331, icp:0
+[Time] build_descriptor:13.3232, candidate search:8.24224, fine loop detect:2.52672, add descriptor:1.62412, average:51.3702
+
+Key frame:332, cloud size:62770
+[Corner] corner size:47  descriptor size:2135
+[Loop Fail] 332, icp:0
+[Time] build_descriptor:15.2724, candidate search:7.64393, fine loop detect:1.23019, add descriptor:2.15611, average:51.2949
+
+Key frame:333, cloud size:75572
+[Corner] corner size:48  descriptor size:2258
+[Loop Fail] 333, icp:0
+[Time] build_descriptor:18.8877, candidate search:8.32546, fine loop detect:2.74109, add descriptor:2.36445, average:51.2381
+
+Key frame:334, cloud size:88800
+[Corner] corner size:33  descriptor size:1394
+[Loop Sucess] 334--136, candidate id:7, icp:0.238095
+[Loop Info] rough size:11, match size:8, rough triangle dis:0.00827744, fine triangle dis:0.00578387, rough binary similarity:0.590619, fine binary similarity:0.715398
+[Time] build_descriptor:15.9646, candidate search:4.22639, fine loop detect:1.06821, add descriptor:1.58975, average:51.1534
+
+Key frame:335, cloud size:105267
+[Corner] corner size:39  descriptor size:1797
+[Loop Fail] 335, icp:0
+[Time] build_descriptor:19.804, candidate search:5.73745, fine loop detect:0.638379, add descriptor:2.06939, average:51.0852
+
+Key frame:336, cloud size:124387
+[Corner] corner size:43  descriptor size:2017
+[Loop Sucess] 336--128, candidate id:0, icp:0.642442
+[Loop Info] rough size:21, match size:6, rough triangle dis:0.00683694, fine triangle dis:0.00730203, rough binary similarity:0.56187, fine binary similarity:0.679955
+[Time] build_descriptor:21.4705, candidate search:6.81697, fine loop detect:1.87709, add descriptor:2.30239, average:51.03
+
+Key frame:337, cloud size:143350
+[Corner] corner size:51  descriptor size:2591
+[Loop Sucess] 337--124, candidate id:3, icp:0.436224
+[Loop Info] rough size:29, match size:10, rough triangle dis:0.00810763, fine triangle dis:0.00744684, rough binary similarity:0.560037, fine binary similarity:0.679299
+[Time] build_descriptor:25.1367, candidate search:11.0978, fine loop detect:3.41218, add descriptor:4.15906, average:51.0086
+
+Key frame:338, cloud size:158699
+[Corner] corner size:48  descriptor size:2408
+[Loop Fail] 338, icp:0
+[Time] build_descriptor:28.8641, candidate search:8.5885, fine loop detect:2.4954, add descriptor:2.50054, average:50.9833
+
+Key frame:339, cloud size:172148
+[Corner] corner size:82  descriptor size:4168
+[Loop Fail] 339, icp:0
+[Time] build_descriptor:38.3454, candidate search:15.6165, fine loop detect:5.65933, add descriptor:4.08939, average:51.0208
+
+Key frame:340, cloud size:183698
+[Corner] corner size:87  descriptor size:4594
+[Loop Fail] 340, icp:0
+[Time] build_descriptor:37.4186, candidate search:17.6337, fine loop detect:8.79856, add descriptor:4.21998, average:51.0708
+
+Key frame:341, cloud size:192674
+[Corner] corner size:82  descriptor size:3978
+[Loop Sucess] 341--126, candidate id:9, icp:0.648184
+[Loop Info] rough size:45, match size:8, rough triangle dis:0.00735475, fine triangle dis:0.005793, rough binary similarity:0.547295, fine binary similarity:0.684186
+[Time] build_descriptor:34.2691, candidate search:15.4739, fine loop detect:6.24145, add descriptor:3.93718, average:51.0967
+
+Key frame:342, cloud size:201183
+[Corner] corner size:87  descriptor size:4346
+[Loop Fail] 342, icp:0
+[Time] build_descriptor:38.9747, candidate search:16.9516, fine loop detect:5.38198, add descriptor:4.35784, average:51.1391
+
+Key frame:343, cloud size:207969
+[Corner] corner size:92  descriptor size:4609
+[Loop Sucess] 343--21, candidate id:35, icp:0.610635
+[Loop Info] rough size:46, match size:5, rough triangle dis:0.00680696, fine triangle dis:0.0048802, rough binary similarity:0.571249, fine binary similarity:0.75038
+[Time] build_descriptor:41.058, candidate search:18.1066, fine loop detect:7.24797, add descriptor:4.39212, average:51.1963
+
+Key frame:344, cloud size:214421
+[Corner] corner size:100  descriptor size:5040
+[Loop Sucess] 344--19, candidate id:34, icp:0.289562
+[Loop Info] rough size:49, match size:8, rough triangle dis:0.007286, fine triangle dis:0.00696056, rough binary similarity:0.551513, fine binary similarity:0.650334
+[Time] build_descriptor:47.8234, candidate search:18.7436, fine loop detect:6.64224, add descriptor:5.01207, average:51.2746
+
+Key frame:345, cloud size:219892
+[Corner] corner size:100  descriptor size:5159
+[Loop Sucess] 345--21, candidate id:15, icp:0.469775
+[Loop Info] rough size:61, match size:4, rough triangle dis:0.00685482, fine triangle dis:0.00688545, rough binary similarity:0.555453, fine binary similarity:0.644758
+[Time] build_descriptor:43.1388, candidate search:18.84, fine loop detect:8.45383, add descriptor:5.20723, average:51.345
+
+Key frame:346, cloud size:226872
+[Corner] corner size:121  descriptor size:6428
+[Loop Sucess] 346--27, candidate id:10, icp:0.621441
+[Loop Info] rough size:72, match size:8, rough triangle dis:0.00704224, fine triangle dis:0.00593012, rough binary similarity:0.554656, fine binary similarity:0.723205
+[Time] build_descriptor:48.1951, candidate search:22.9218, fine loop detect:10.1366, add descriptor:6.76814, average:51.4507
+
+Key frame:347, cloud size:233539
+[Corner] corner size:117  descriptor size:6176
+[Loop Sucess] 347--29, candidate id:6, icp:0.268761
+[Loop Info] rough size:82, match size:4, rough triangle dis:0.00698258, fine triangle dis:0.00522459, rough binary similarity:0.555113, fine binary similarity:0.669546
+[Time] build_descriptor:51.0772, candidate search:22.165, fine loop detect:8.1188, add descriptor:5.8388, average:51.5535
+
+Key frame:348, cloud size:231940
+[Corner] corner size:125  descriptor size:6629
+[Loop Sucess] 348--27, candidate id:1, icp:0.527273
+[Loop Info] rough size:112, match size:20, rough triangle dis:0.0070986, fine triangle dis:0.00545484, rough binary similarity:0.554321, fine binary similarity:0.654349
+[Time] build_descriptor:47.3278, candidate search:22.8498, fine loop detect:10.4962, add descriptor:6.82741, average:51.6565
+
+Key frame:349, cloud size:234616
+[Corner] corner size:119  descriptor size:6366
+[Loop Sucess] 349--30, candidate id:0, icp:0.387789
+[Loop Info] rough size:108, match size:4, rough triangle dis:0.00758116, fine triangle dis:0.00657063, rough binary similarity:0.553855, fine binary similarity:0.72516
+[Time] build_descriptor:47.0449, candidate search:23.4468, fine loop detect:9.38939, add descriptor:6.44026, average:51.7555
+
+Key frame:350, cloud size:228385
+[Corner] corner size:137  descriptor size:7462
+[Loop Sucess] 350--29, candidate id:17, icp:0.404362
+[Loop Info] rough size:77, match size:4, rough triangle dis:0.00739855, fine triangle dis:0.00581266, rough binary similarity:0.563966, fine binary similarity:0.720462
+[Time] build_descriptor:51.8908, candidate search:26.3197, fine loop detect:10.0968, add descriptor:6.95102, average:51.8795
+
+Key frame:351, cloud size:234134
+[Corner] corner size:133  descriptor size:7103
+[Loop Sucess] 351--26, candidate id:15, icp:0.444611
+[Loop Info] rough size:73, match size:5, rough triangle dis:0.00659642, fine triangle dis:0.00652075, rough binary similarity:0.562183, fine binary similarity:0.638744
+[Time] build_descriptor:58.4249, candidate search:24.309, fine loop detect:11.3013, add descriptor:7.19457, average:52.0197
+
+Key frame:352, cloud size:234771
+[Corner] corner size:114  descriptor size:5933
+[Loop Sucess] 352--18, candidate id:19, icp:0.0160256
+[Loop Info] rough size:62, match size:4, rough triangle dis:0.00733984, fine triangle dis:0.00616573, rough binary similarity:0.573208, fine binary similarity:0.698004
+[Time] build_descriptor:50.065, candidate search:22.2592, fine loop detect:9.42995, add descriptor:6.08497, average:52.1211
+
+Key frame:353, cloud size:234654
+[Corner] corner size:114  descriptor size:6027
+[Loop Fail] 353, icp:0
+[Time] build_descriptor:51.1436, candidate search:23.3059, fine loop detect:6.37566, add descriptor:6.39229, average:52.2203
+
+Key frame:354, cloud size:230892
+[Corner] corner size:120  descriptor size:6433
+[Loop Sucess] 354--26, candidate id:3, icp:0.611746
+[Loop Info] rough size:95, match size:8, rough triangle dis:0.0070844, fine triangle dis:0.00561456, rough binary similarity:0.563717, fine binary similarity:0.642014
+[Time] build_descriptor:51.8932, candidate search:22.6765, fine loop detect:8.92166, add descriptor:6.55938, average:52.3268
+
+Key frame:355, cloud size:231223
+[Corner] corner size:114  descriptor size:6113
+[Loop Sucess] 355--21, candidate id:2, icp:0.580165
+[Loop Info] rough size:99, match size:7, rough triangle dis:0.00702065, fine triangle dis:0.00551654, rough binary similarity:0.567421, fine binary similarity:0.792787
+[Time] build_descriptor:51.3741, candidate search:23.0492, fine loop detect:9.70817, add descriptor:6.54665, average:52.4346
+
+Key frame:356, cloud size:235289
+[Corner] corner size:108  descriptor size:5677
+[Loop Sucess] 356--29, candidate id:16, icp:0.554404
+[Loop Info] rough size:69, match size:4, rough triangle dis:0.00780903, fine triangle dis:0.00714155, rough binary similarity:0.553599, fine binary similarity:0.675808
+[Time] build_descriptor:49.025, candidate search:22.3445, fine loop detect:13.9258, add descriptor:6.27508, average:52.5442
+
+Key frame:357, cloud size:235171
+[Corner] corner size:111  descriptor size:5968
+[Loop Sucess] 357--28, candidate id:18, icp:0.550088
+[Loop Info] rough size:84, match size:5, rough triangle dis:0.00704784, fine triangle dis:0.00503721, rough binary similarity:0.553581, fine binary similarity:0.660218
+[Time] build_descriptor:59.5054, candidate search:24.7115, fine loop detect:12.5011, add descriptor:5.96643, average:52.6842
+
+Key frame:358, cloud size:234436
+[Corner] corner size:88  descriptor size:4467
+[Loop Sucess] 358--22, candidate id:44, icp:0.0994475
+[Loop Info] rough size:24, match size:4, rough triangle dis:0.00716667, fine triangle dis:0.0023542, rough binary similarity:0.553307, fine binary similarity:0.643195
+[Time] build_descriptor:45.7263, candidate search:15.4159, fine loop detect:4.15267, add descriptor:5.23241, average:52.7339
+
+Key frame:359, cloud size:235465
+[Corner] corner size:95  descriptor size:4670
+[Loop Fail] 359, icp:0
+[Time] build_descriptor:48.8061, candidate search:19.2547, fine loop detect:5.53522, add descriptor:4.53708, average:52.8045
+
+Key frame:360, cloud size:235592
+[Corner] corner size:87  descriptor size:4584
+[Loop Sucess] 360--30, candidate id:10, icp:0.597194
+[Loop Info] rough size:76, match size:6, rough triangle dis:0.00764794, fine triangle dis:0.00467958, rough binary similarity:0.564631, fine binary similarity:0.845633
+[Time] build_descriptor:47.502, candidate search:21.6547, fine loop detect:8.83075, add descriptor:4.65198, average:52.8871
+
+Key frame:361, cloud size:235158
+[Corner] corner size:89  descriptor size:4775
+[Loop Sucess] 361--32, candidate id:10, icp:0.573469
+[Loop Info] rough size:94, match size:4, rough triangle dis:0.00733738, fine triangle dis:0.00720289, rough binary similarity:0.569933, fine binary similarity:0.795533
+[Time] build_descriptor:44.8783, candidate search:22.6379, fine loop detect:11.0604, add descriptor:4.9862, average:52.9719
+
+Key frame:362, cloud size:232872
+[Corner] corner size:88  descriptor size:4578
+[Loop Sucess] 362--31, candidate id:0, icp:0.540598
+[Loop Info] rough size:124, match size:5, rough triangle dis:0.00694159, fine triangle dis:0.00763904, rough binary similarity:0.560253, fine binary similarity:0.813329
+[Time] build_descriptor:42.6355, candidate search:22.4178, fine loop detect:10.6356, add descriptor:4.76879, average:53.0476
+
+Key frame:363, cloud size:235486
+[Corner] corner size:87  descriptor size:4591
+[Loop Sucess] 363--30, candidate id:0, icp:0.609375
+[Loop Info] rough size:127, match size:10, rough triangle dis:0.00686652, fine triangle dis:0.00598453, rough binary similarity:0.559975, fine binary similarity:0.802825
+[Time] build_descriptor:41.9351, candidate search:21.0328, fine loop detect:9.82457, add descriptor:4.69955, average:53.1148
+
+Key frame:364, cloud size:235657
+[Corner] corner size:84  descriptor size:4434
+[Loop Sucess] 364--32, candidate id:1, icp:0.627358
+[Loop Info] rough size:139, match size:15, rough triangle dis:0.00712068, fine triangle dis:0.00525736, rough binary similarity:0.558344, fine binary similarity:0.835387
+[Time] build_descriptor:41.9616, candidate search:22.2389, fine loop detect:11.3571, add descriptor:4.62956, average:53.1889
+
+Key frame:365, cloud size:235725
+[Corner] corner size:79  descriptor size:4110
+[Loop Sucess] 365--36, candidate id:0, icp:0.601918
+[Loop Info] rough size:107, match size:10, rough triangle dis:0.00723343, fine triangle dis:0.00795247, rough binary similarity:0.563882, fine binary similarity:0.722354
+[Time] build_descriptor:43.5387, candidate search:18.6581, fine loop detect:8.86101, add descriptor:4.28049, average:53.2494
+
+Key frame:366, cloud size:234698
+[Corner] corner size:71  descriptor size:3774
+[Loop Sucess] 366--33, candidate id:3, icp:0.606771
+[Loop Info] rough size:96, match size:5, rough triangle dis:0.00701186, fine triangle dis:0.00646834, rough binary similarity:0.557047, fine binary similarity:0.813919
+[Time] build_descriptor:39.2023, candidate search:20.0322, fine loop detect:8.48292, add descriptor:3.96953, average:53.2997
+
+Key frame:367, cloud size:235952
+[Corner] corner size:72  descriptor size:3672
+[Loop Sucess] 367--24, candidate id:6, icp:0.422043
+[Loop Info] rough size:72, match size:4, rough triangle dis:0.00742629, fine triangle dis:0.00648251, rough binary similarity:0.555681, fine binary similarity:0.763384
+[Time] build_descriptor:37.4958, candidate search:18.5066, fine loop detect:7.32537, add descriptor:4.13967, average:53.3382
+
+Key frame:368, cloud size:231756
+[Corner] corner size:58  descriptor size:2964
+[Loop Fail] 368, icp:0
+[Time] build_descriptor:34.1222, candidate search:15.4199, fine loop detect:5.49911, add descriptor:3.4205, average:53.3521
+
+Key frame:369, cloud size:236232
+[Corner] corner size:53  descriptor size:2735
+[Loop Sucess] 369--30, candidate id:7, icp:0.636364
+[Loop Info] rough size:51, match size:4, rough triangle dis:0.00728183, fine triangle dis:0.00355513, rough binary similarity:0.56625, fine binary similarity:0.833668
+[Time] build_descriptor:32.768, candidate search:13.9004, fine loop detect:5.63305, add descriptor:3.62256, average:53.359
+
+Key frame:370, cloud size:235785
+[Corner] corner size:47  descriptor size:2397
+[Loop Fail] 370, icp:0
+[Time] build_descriptor:39.002, candidate search:13.0074, fine loop detect:4.6213, add descriptor:2.48593, average:53.3745
+
+Key frame:371, cloud size:234876
+[Corner] corner size:52  descriptor size:2546
+[Loop Sucess] 371--33, candidate id:12, icp:0.60219
+[Loop Info] rough size:53, match size:6, rough triangle dis:0.00737623, fine triangle dis:0.00821614, rough binary similarity:0.55776, fine binary similarity:0.787847
+[Time] build_descriptor:34.8553, candidate search:15.4394, fine loop detect:6.94859, add descriptor:2.71669, average:53.3922
+
+Key frame:372, cloud size:236973
+[Corner] corner size:46  descriptor size:2292
+[Loop Sucess] 372--35, candidate id:14, icp:0.243346
+[Loop Info] rough size:48, match size:7, rough triangle dis:0.0073916, fine triangle dis:0.00303769, rough binary similarity:0.541089, fine binary similarity:0.868295
+[Time] build_descriptor:28.2097, candidate search:14.5768, fine loop detect:6.66916, add descriptor:2.79787, average:53.3892
+
+Key frame:373, cloud size:236744
+[Corner] corner size:31  descriptor size:1478
+[Loop Fail] 373, icp:0
+[Time] build_descriptor:30.5783, candidate search:9.73093, fine loop detect:3.13243, add descriptor:1.79992, average:53.3674
+
+Key frame:374, cloud size:236535
+[Corner] corner size:30  descriptor size:1331
+[Loop Fail] 374, icp:0
+[Time] build_descriptor:26.4001, candidate search:11.2576, fine loop detect:4.81384, add descriptor:1.53319, average:53.3424
+
+Key frame:375, cloud size:235399
+[Corner] corner size:31  descriptor size:1385
+[Loop Fail] 375, icp:0
+[Time] build_descriptor:25.6909, candidate search:10.3524, fine loop detect:3.45473, add descriptor:1.629, average:53.3099
+
+Key frame:376, cloud size:236462
+[Corner] corner size:21  descriptor size:879
+[Loop Fail] 376, icp:0
+[Time] build_descriptor:26.0697, candidate search:9.06829, fine loop detect:2.07087, add descriptor:1.40769, average:53.271
+
+Key frame:377, cloud size:236171
+[Corner] corner size:17  descriptor size:578
+[Loop Fail] 377, icp:0
+[Time] build_descriptor:28.1762, candidate search:5.74408, fine loop detect:0.883395, add descriptor:0.824948, average:53.2243
+
+Key frame:378, cloud size:233867
+[Corner] corner size:14  descriptor size:331
+[Loop Fail] 378, icp:0
+[Time] build_descriptor:24.364, candidate search:3.6751, fine loop detect:0.638293, add descriptor:0.409924, average:53.1606
+
+Key frame:379, cloud size:230135
+[Corner] corner size:15  descriptor size:417
+[Loop Fail] 379, icp:0
+[Time] build_descriptor:24.9269, candidate search:8.37651, fine loop detect:0.604339, add descriptor:0.635035, average:53.1116

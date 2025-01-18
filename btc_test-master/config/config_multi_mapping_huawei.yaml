@@ -1,0 +1,67 @@
+%YAML:1.0
+
+# pre process
+ds_size: 0.25 #0.25 调小
+useful_corner_num: 500 # how many binary_descriptors a key frame can have
+stop_skip_enable: 0
+
+# key points
+plane_detection_thre: 0.01 # if the smallest eigen value is smaller than the threshold, the voxel can be a plane, calculate the plane
+plane_merge_normal_thre: 0.1 # plane merge, normal threshold
+plane_merge_dis_thre: 0.3 # plane merge, distance threshold
+voxel_size: 1 #2
+voxel_init_num: 10 # if point number in voxel bigger than this, voxel is not empty, calculate the plane of the voxel
+proj_plane_num: 1 # extract descriptor from how many planes
+proj_image_resolution: 0.5 # the resolution of the 2d image used to extract binary
+proj_image_high_inc: 0.1 # the high resolution of the 2d image
+proj_dis_min: 0.2 # the minimum distance of the point to the lidar
+proj_dis_max: 5 # the maximum distance of the point to the lidar
+summary_min_thre: 6 # binary > 才提取
+#---------------------？？？-----------------------
+line_filter_enable: 1 # 角点在一条直线上的点不要 室内0 室外可以1
+touch_filter_enable: 0 # if true, filter all points starts from project plane when extracting binary
+
+# std descriptor
+descriptor_near_num: 15 # the radius of the sphere bounding of searching neighbors ！！！！回环不好往大了调
+descriptor_min_len: 2 # the minimum length of the triangle descriptor
+descriptor_max_len: 30 # the maximum length of the triangle descriptor
+max_constrait_dis: 2
+triangle_resolution: 0.2
+
+# candidate search
+skip_near_num: 20 # skip too close frame when detecting loop
+#----------------？？？---------------all empty except for the first one
+candidate_num: 100 # how many STD_list to save in alternative_match
+sub_frame_num: 3 # 10
+icp_threshold: 0.15
+similarity_threshold: 0.65 # similarity threshold for searching match binary descriptors
+# is the average of three pairs of binary: same_occupy_voxel/summary 0.75
+rough_dis_threshold: 0.01 # distance threshold for searching match triangle descriptors
+# dis_threshold = descriptor.triangle_.norm() * config_setting.rough_dis_threshold_;
+#0.2 0.5
+normal_threshold: 0.2
+dis_threshold: 0.5
+
+# result record
+is_kitti: 1
+
+# extrinsic
+T_lidar_to_vehicle: !!opencv-matrix
+  rows: 4
+  cols: 4
+  dt: d
+  data: [1,0,0,0,
+        0,1,0,0,
+        0,0,1,0,
+        0,0,0,1]
+T_lidar_to_camera: !!opencv-matrix
+  rows: 4
+  cols: 4
+  dt: d
+  data: [7.533745e-03,-9.999714e-01,-6.166020e-04,-4.069766e-03,
+         1.480249e-02,7.280733e-04,-9.998902e-01,-7.631618e-02,
+         9.998621e-01,7.523790e-03,1.480755e-02,-2.717806e-01,
+         0.00000000e+00,0.00000000e+00,0.00000000e+00,1.00000000e+00]
+# gt file: 0 for kitti, 1 for mulran and cu
+
+gt_file_style: 1

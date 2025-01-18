@@ -1,0 +1,44 @@
+common:
+    lid_topic:  "/livox/lidar"
+    imu_topic:  "/livox/imu"
+    time_sync_en: false         # ONLY turn on when external time synchronization is really not possible
+
+preprocess:
+    lidar_type: 1                # Livox Avia LiDAR
+    feature_extract_en: false
+    scan_line: 6
+    blind: 1
+
+voxel:
+    voxel_map_en: false
+    pub_plane_en: false
+    match_eigen_value: 0.005
+    min_eigen_value: 0.005
+    match_s: 0.9
+    sigma_num: 3
+    voxel_size: 1
+    layer: 1
+
+mapping:
+    imu_en: true
+    acc_cov: 0.1
+    gyr_cov: 0.1
+    b_acc_cov: 0.0001
+    b_gyr_cov: 0.0001
+    fov_degree:    100
+    det_range:     260.0
+    extrinsic_T: [ 0.05512, 0.02226, -0.0297 ]
+    extrinsic_R: [ 1, 0, 0,
+                   0, 1, 0,
+                   0, 0, 1]
+
+publish:
+    path_en:  false
+    scan_publish_en:  true       # false: close all the point cloud output
+    dense_publish_en: true       # false: low down the points number in a global-frame point clouds scan.
+    scan_bodyframe_pub_en: true  # true: output the point cloud scans in IMU-body-frame
+
+pcd_save:
+    pcd_save_en: false
+    interval: -1                 # how many LiDAR frames saved in each pcd file; 
+                                 # -1 : all frames will be saved in ONE pcd file, may lead to memory crash when having too much frames.

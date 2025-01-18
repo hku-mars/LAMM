@@ -1,0 +1,199 @@
+common:
+    lid_topic:  "/livox/lidar"
+    imu_topic:  "/livox/imu"
+    time_sync_en: false         # ONLY turn on when external time synchronization is really not possible
+
+dyn_obj:
+    dataset: 3 #0 for kitti, 1 for nuscenes, 2 for waymo
+    buffer_delay: 0.1
+    buffer_size: 300000
+    points_num_perframe: 100000
+    depth_map_dur: 0.2
+    max_depth_map_num: 8
+    max_pixel_points: 5
+    checkneighbor_range: 1
+    frame_dur: 0.1
+    self_x_f: -2.5
+    self_x_b: -1.5
+    self_y_l: -1.6
+    self_y_r: -1.6
+    blind_dis: 0.5
+    fov_up: 38.6
+    fov_down: -38.6
+    fov_left: 34.0
+    fov_right: -34.0
+    fov_cut: -20.0
+    
+    depth_thr1: 0.15
+    enter_min_thr1: 1.0
+    enter_max_thr1: 0.3 ##10.3
+    map_cons_depth_thr1: 0.3
+    map_cons_hor_thr1: 0.01
+    map_cons_ver_thr1: 0.02
+    map_cons_hor_dis1: 0.1
+    map_cons_ver_dis1: 0.1
+    depth_cons_depth_thr1: 0.5
+    depth_cons_depth_max_thr1: 1.0
+    depth_cons_hor_thr1: 0.01
+    depth_cons_ver_thr1: 0.01
+    enlarge_z_thr1 : -2.5
+    enlarge_angle: 2.0
+    enlarge_depth: 3.0
+    occluded_map_thr1: 3
+    case1_interp_en: false
+
+    v_min_thr2: 0.5
+    acc_thr2: 7.0
+    map_cons_depth_thr2: 0.1
+    map_cons_hor_thr2: 0.01
+    map_cons_ver_thr2: 0.01
+    occ_depth_thr2: 0.15
+    occ_hor_thr2: 0.02 ##0.01
+    occ_ver_thr2: 0.03 ##0.015
+    depth_cons_depth_thr2: 0.1
+    depth_cons_depth_max_thr2: 0.5
+    depth_cons_hor_thr2: 0.01
+    depth_cons_ver_thr2: 0.01
+    occluded_times_thr2: 3
+    k_depth2: 0.005
+    case2_interp_en: false
+
+    v_min_thr3: 0.5
+    acc_thr3: 15.0
+    map_cons_depth_thr3: 0.2
+    map_cons_hor_thr3: 0.015
+    map_cons_ver_thr3: 0.015
+    occ_depth_thr3: 0.15
+    occ_hor_thr3: 0.01
+    occ_ver_thr3: 0.01
+    depth_cons_depth_thr3: 0.3
+    depth_cons_depth_max_thr3: 1.0
+    depth_cons_hor_thr3: 0.01
+    depth_cons_ver_thr3: 0.01
+    occluded_times_thr3: 3
+    case3_interp_en: false
+
+    interp_hor_thr: 0.015
+    interp_ver_thr: 0.015
+    interp_thr1: 0.5
+    interp_static_max: 10.0
+    interp_start_depth1: 10
+    interp_kp1: 0.1
+    interp_kd1: 0.5
+    interp_bg: 0.8
+    interp_thr2: 0.25
+    interp_thr3: 0.05
+
+    point_index: -1 #16982 41299 #  #29614 #63177
+    debug_x: 7.2065
+    debug_y: -3.1844
+    debug_z: -0.89005
+    cluster_coupled: true
+    cluster_future: true
+    cluster_extend_pixel: 2
+    cluster_min_pixel_number: 3
+    cluster_thrustable_thresold: 0.3
+    cluster_Voxel_revolusion: 0.3
+
+    # pose_file: "/home/huajie/event_detection/vicon/sequences/00/poses.txt"
+    # out_file: "/home/huajie/event_detection/vicon/sequences/10/predictions/"
+    # out_file: "/home/huajie/event_detection/bag/revise/sequences/20/predictions/"
+    # pc_file: "/home/huajie/event_detection/vicon/sequences/00/velodyne/"
+    # label_file: "/home/huajie/event_detection/vicon/sequences/11/labels/"
+    # # pred_file: "/home/huajie/event_detection/LiDAR-MOS/data/predictions_salsanext_1/sequences/10/predictions/"
+    # # pred_file: "/home/huajie/event_detection/LiDAR-MOS/data/salsanext_residual_8_sem_allseqs/sequences/13/predictions/"
+    # pred_file: "/home/huajie/event_detection/vicon/sequences/11/predictions/"
+    # # out_file: "/home/huajie/event_detection/vicon/dataset/sequences/vicon_2022-08-05-00-40-34/predictions/"
+
+    # out_file: &out_file_path "/media/yihang/LYH2/livox/vicon/results/45/avia0/"
+    # out_file_origin: &out_file_path1 "/media/yihang/LYH2/livox/vicon/results/45/avia0_origin/"
+    # label_file : "/media/yihang/LYH2/livox/vicon/results/45/labels/"
+    # pred_file : *out_file_path
+
+    dataset_folder: "/media/yihang/LYH2/livox/vicon/results/"
+    cal_num: 7
+    se_num: 46
+    is_nc: false
+
+    mode: 0 # 0 for distance resolution and 1 for angle resolution
+    dyn_filter_en: false
+    debug_publish: false
+    laserCloudSteadObj_accu_limit: 1
+    
+    interp_en: false
+    is_add: false
+    dyn_windows_num: 5
+    dyn_windows_dur: 0.2
+    
+    occlude_windows: 3
+    quadtree_layer_max: 4 ###
+    ver_resolution_max: 0.005
+    hor_resolution_max: 0.005
+#for filter.h
+#define MAX_2D_N       (1317755) //(50086)  // MAX_1D * MAX_1D_HALF
+#define MAX_1D         (2095) //(317)  // 2*pi/ hor_resolution
+#define MAX_1D_HALF    (629) //(449) //158  pi / ver_resolution
+    angle_noise: 0.02 #couple with occu times
+    
+    min_dis_roll1: 0.1
+    min_dis_pitch1: 0.1
+    min_roll1: 0.02
+    min_pitch1: 0.02
+    depth_diff: 0.2
+    depth_cut: 10.0
+    roll_noise: 0.015
+    pitch_noise: 0.009
+    min_dis_roll2: 0.2
+    min_dis_pitch2: 0.05
+    min_roll2: 0.01
+    min_pitch2: 0.005
+    depth2: 0.2
+    v_min_case2: 0.5
+    depth_thr_case2: 0.15
+    depth_minus: 0.5
+    
+    angle_occlude: 0.02
+    depth_thr: 0.15
+    depth_thr_fpc_max: 0.5
+    depth_thr_fpc_min: 0.1
+    
+
+preprocess:
+    lidar_type: 1                # Livox Avia LiDAR
+    feature_extract_en: false
+    scan_line: 6
+    blind: 1.0
+
+voxel:
+    voxel_map_en: false
+    pub_plane_en: false
+    match_eigen_value: 0.005
+    min_eigen_value: 0.005
+    match_s: 0.9
+    sigma_num: 3
+    voxel_size: 1
+    layer: 1
+
+mapping:
+    imu_en: true
+    acc_cov: 0.1
+    gyr_cov: 0.1
+    b_acc_cov: 0.0001
+    b_gyr_cov: 0.0001
+    fov_degree:    90
+    det_range:     450.0
+    extrinsic_T: [ 0.0, 0.0, -0.0 ]  # [ 0.04165, 0.02326, -0.0284 ]
+    extrinsic_R: [ 1, 0, 0,
+                   0, 1, 0,
+                   0, 0, 1]
+
+publish:
+    path_en:  false
+    scan_publish_en:  true       # false: close all the point cloud output
+    dense_publish_en: true       # false: low down the points number in a global-frame point clouds scan.
+    scan_bodyframe_pub_en: true  # true: output the point cloud scans in IMU-body-frame
+
+pcd_save:
+    pcd_save_en: false
+    interval: -1                 # how many LiDAR frames saved in each pcd file; 
+                                 # -1 : all frames will be saved in ONE pcd file, may lead to memory crash when having too much frames.

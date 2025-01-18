@@ -1,0 +1,32 @@
+<launch>
+<!-- Launch file for Livox AVIA LiDAR -->
+
+	<arg name="rviz" default="false" />
+	<!-- <rosparam command="load" file="$(find m_detector)/config/L515.yaml" />
+	<node pkg="m_detector" type="revise_kitti" name="revise_kitti" output="screen" /> --> -->
+
+
+	<node pkg="m_detector" type="cal_lmnet" name="cal_lmnet" output="screen"  />
+	<param name="prediction_folder" type="string" value="/home/huajie/event_detection/LiDAR-MOS/data/" />
+	<param name="avia_bins_folder" type="string" value="/home/huajie/event_detection/LiDAR-MOS/data/sequences_avia/" />
+	<param name="waymo_labels" type="string" value="/home/huajie/event_detection/waymo/dataset_new/sequences/" />
+	<param name="nuscenes_labels" type="string" value="/home/huajie/event_detection/nuscenes/dataset_new/sequences/" />
+	<param name="avia_labels" type="string" value="/home/huajie/event_detection/vicon/sequences/" />
+
+
+launch-prefix="gdb -ex run --args"
+
+	
+	<!-- <param name="point_filter_num" type="int" value="2"/>
+	<param name="max_iteration" type="int" value="4" />
+	<param name="filter_size_surf" type="double" value="0.5" />
+	<param name="filter_size_map" type="double" value="0.5" />
+	<param name="cube_side_length" type="double" value="2000" /> -->
+launch-prefix="gdb -ex run --args"
+	<group if="$(arg rviz)">
+	<node launch-prefix="nice" pkg="rviz" type="rviz" name="rviz" args="-d $(find m_detector)/rviz_cfg/loam_livox.rviz" />
+	</group>
+ 
+  	  
+
+</launch>

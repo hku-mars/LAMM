@@ -1,0 +1,41 @@
+<launch>
+<!-- Launch file for Livox AVIA LiDAR -->
+
+	<arg name="rviz" default="true" />
+	<!-- <arg name="pred_folder" default="/media/huajie/Event/livox/vicon/results/06/avia1/predictions/"/>	
+	<arg name="points_topic" default="/velodyne_points"/>	 -->
+	<arg name="out_origin_path" default=""/>
+	
+	<!-- <node pkg="fast_lio" type="revise_kitti" name="revise_kitti" output="screen" /> --> -->
+
+	<rosparam command="load" file="$(find m_detector)/config/kitti0.yaml" />
+	<arg name="pred_file" default=""/>	
+	<arg name="label_file" default=""/>	
+	<arg name="bin_folder" default=""/>	
+	<!-- <rosparam command="load" file="$(find fast_lio)/config/waymo4.yaml" /> -->
+
+	<node pkg="m_detector" type="display_pc" name="display_pc" output="screen" />
+
+ launch-prefix="gdb -ex run --args"
+	<param name="dyn_obj/pred_file" type="string" value="$(arg pred_file)" />
+	<param name="dyn_obj/label_file" type="string" value="$(arg label_file)" />
+	<param name="dyn_obj/bin_folder" type="string" value="$(arg bin_folder)" />
+	<!-- <node pkg="fast_lio" type="replay_hist" name="replay_hist" output="screen" /> -->
+	<!-- <node pkg="fast_lio" type="display_prediction" name="display_prediction" output="screen"/>
+	<param name="dyn_obj/pred_file" type="string" value="$(arg pred_folder)" />
+	<param name="dyn_obj/lid_topic" type="string" value="$(arg points_topic)" /> -->
+	<!-- <param name="dyn_obj/time_file" type="string" value="$(arg file_path)" /> -->
+	
+	<!-- <param name="point_filter_num" type="int" value="2"/>
+	<param name="max_iteration" type="int" value="4" />
+	<param name="filter_size_surf" type="double" value="0.5" />
+	<param name="filter_size_map" type="double" value="0.5" />
+	<param name="cube_side_length" type="double" value="2000" /> -->
+launch-prefix="gdb -ex run --args" launch-prefix="gdb -ex run --args" 
+	<group if="$(arg rviz)">
+	<node launch-prefix="nice" pkg="rviz" type="rviz" name="rviz" args="-d $(find m_detector)/rviz_cfg/cover1.rviz" />
+	</group>
+ 
+  	  
+
+</launch>

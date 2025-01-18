@@ -1,0 +1,46 @@
+# common:
+#     # lid_topic:  "/velodyne_points"
+#     # imu_topic:  "/imu/data"
+#     lid_topic:  "/pcl_render_node/cloud"
+#     imu_topic:  "/quadrotor_simulator_so3/imu"
+
+common:
+    lid_topic:  "/livox/lidar1"
+    imu_topic:  "/livox/imu"
+    time_sync_en: false         # ONLY turn on when external time synchronization is really not possible
+
+dyn_obj:
+    dyn_filter_en: true
+    debug_publish: false
+    dyn_windows_num: 5
+    dyn_windows_dur: 0.3
+    quadtree_layer_max: 4
+    resolution_max: 0.2
+    occlude_windows: 3
+    quadtree_layer_max: 4 ###
+    ver_resolution_max: 0.02
+    hor_resolution_max: 0.02
+    angle_occlude: 0.01
+    angle_noise: 0.02 #couple with occu times
+    depth_thr: 0.15
+    point_index: -1
+
+preprocess:
+    lidar_type: 2                # VLP-16 LiDAR
+    scan_line: 32
+    blind: 4
+
+mapping:
+    acc_cov: 0.1
+    gyr_cov: 0.1
+    b_acc_cov: 0.0001
+    b_gyr_cov: 0.0001
+    fov_degree:    180
+    det_range:     100.0
+    extrinsic_T: [ 0, 0, 0.28] #ULHK   #[ -0.5, 1.4, 1.5 ] #utbm
+    extrinsic_R: [ 1, 0, 0, 
+                   0, 1, 0, 
+                   0, 0, 1]
+    # extrinsic_R: [ 0, 1, 0, 
+    #               -1, 0, 0, 
+    #                0, 0, 1]

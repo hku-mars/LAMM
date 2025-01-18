@@ -1,0 +1,33 @@
+<launch>
+    <!-- Launch file for Livox AVIA LiDAR -->
+
+    <arg name="rviz" default="true"/>
+
+    <node
+            pkg="m_detector"
+            type="load_cloud_rgb"
+            name="load_cloud_rgb"
+            output="screen"
+
+    />
+    <arg name="arg1" default="0.55"/>
+    <param name="icp_threshold" value="$(arg arg1)"/>
+    <param name="is_rgb" type="bool" value="false"/>
+    <param name="data_num" type="int" value="1"/>
+    <param name="m_num" type="int" value="2"/>
+    <param name="calc_gt_enable" type="bool" value="false"/>
+    <param name="data_name" type="string" value="1"/>
+    <param name="setting_path" type="string" value="$(find m_detector)/config/config_multi_mapping.yaml"/>
+    <rosparam command="load" file="$(find m_detector)/config/load_config_avia.yaml"/>
+    <param name="load_dir" type="string" value="/home/weihairuo/bag/test_data/M-Detector/"/>
+    <param name="dyn_obj/save_file" type="string" value="/home/weihairuo/bag/test_data/M-Detector/once_save/"/>
+    <param name="dir_back" type="string" value="/home/weihairuo/bag/test_data/M-Detector/once_save/"/>
+    <param name="steady_save" type="string" value="/home/weihairuo/bag/test_data/M-Detector/twice_save/"/>
+    <param name="loop_gt_file" type="string" value="/home/weihairuo/bag/pose_correct/1.txt"/>
+    launch-prefix="gdb -ex run --args"
+    <group if="$(arg rviz)">
+        <node launch-prefix="nice" pkg="rviz" type="rviz" name="rviz"
+              args="-d $(find m_detector)/rviz_cfg/multi_section.rviz"/>
+    </group>
+
+</launch>

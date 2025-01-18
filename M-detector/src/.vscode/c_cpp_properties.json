@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/ecstasy/catkin_ws/devel/include/**",
+                "/home/ecstasy/ws_livox/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/ecstasy/catkin_ws/src/FAST_LIO/include/**",
+                "/home/ecstasy/catkin_ws/src/kd_tree/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}

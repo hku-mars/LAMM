@@ -1,0 +1,22 @@
+<launch>
+    <!-- Launch file for Livox AVIA LiDAR -->
+
+    <arg name="rviz" default="true"/>
+
+    <node
+            pkg="m_detector"
+            type="pub_cloud"
+            name="pub_cloud"
+            output="screen"
+
+    />
+    <param name="if_rgb" type="int" value="0"/>
+    <param name="ds_size" type="double" value="1.0"/>
+    <param name="pcd_file" type="string" value="/home/weihairuo/bag/pcd_correct/huawei_street/twice_scan.pcd"/>
+    launch-prefix="gdb -ex run --args"
+    <group if="$(arg rviz)">
+        <node launch-prefix="nice" pkg="rviz" type="rviz" name="rviz"
+              args="-d $(find m_detector)/rviz_cfg/multi_section.rviz"/>
+    </group>
+
+</launch>
